@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: Test
 nav_exclude: true
 permalink: index.html
 seo:
   type: Course
-  name: Just the Class
+  name: Chem 601
 ---
 
 # Just the Class
