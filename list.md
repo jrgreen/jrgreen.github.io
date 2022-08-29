@@ -4,8 +4,6 @@ title: Topics
 description: List of topics.
 ---
 
-$$E=mc^2$$
-
 # Tentative list topics
 
 - *Thermodynamics*  
