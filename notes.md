@@ -5,7 +5,3 @@ description: Notes
 nav_order: 4
 has_children: true
 ---
-
-{% for pages in pages %}
-{{ pages }}
-{% endfor %}

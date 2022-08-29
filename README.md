@@ -1,7 +1,8 @@
 ---
 layout: home
-title: Chem 601
-nav_exclude: true
+title: Home
+nav_order: 0
+nav_exclude: false
 permalink: index.html
 seo:
   type: Course
