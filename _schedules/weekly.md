@@ -37,8 +37,8 @@ schedule:
   - name: Wednesday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
+        start: 5:30 AM
+        end: 6:45 AM
         location: 150 Wheeler
       - name: Section
         start: 11:30 AM
