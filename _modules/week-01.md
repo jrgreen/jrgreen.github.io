@@ -4,11 +4,12 @@ title: Introduction and basic principles
 
 Sept 6
 : [What is thermodynamics?]({{ site.baseurl }}{% link notes/Thermodynamics.md %})
-  : Ch. 1
+: What is statistical mechanics?
+  : Dill Ch. 1, Problem set 1
 
 Sept 8
-: What is statistical mechanics?
-  : Ch. 1
+: Probability laws and distributions
+  : Dill Ch. 1, Problem set 1
 
 <!--
 Sep 8
