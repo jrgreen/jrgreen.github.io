@@ -1,13 +1,18 @@
 ---
-title: Thermodynamics and kinetics
+title: Introduction and basic principles
 ---
 
-Sep 6
-: [What is thermodynamics?](#)
-  : [1.1](#)
+Sept 6
+: [What is thermodynamics?]({{ site.baseurl }}{% link notes/Thermodynamics.md %})
+  : Ch. 1
 
-Sep 7
-: **Section**{: .label .label-purple }[Intro to Java](#)
+Sept 8
+: What is statistical mechanics?
+  : Ch. 1
+
+<!--
+Sep 8
+: **Section**{: .label .label-purple }[What is statistical mechanics?](#)
   : [Solution](#)
 
 Sep 30
@@ -20,4 +25,4 @@ Oct 1
 Oct 2
 : [Tracing, IntLists, & Recursion](#)
   : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+: **HW 1 due**{: .label .label-red }-->

@@ -27,35 +27,32 @@ schedule:
   - name: Monday
   - name: Tuesday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
+      - name: Ch 601 Lecture
+        start: 5:30 PM
+        end: 6:45 PM
         location: McCormack M03-0415
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
+      - name: Ch 691 Seminar
+        start: 4:30 PM
+        end: 5:20 PM
+        location: W01-0031
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 6:45 PM
+        end: 7:45 PM
+        location: ISC 3720
   - name: Wednesday
   - name: Thursday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
+      - name: Ch 601 Lecture
+        start: 5:30 PM
+        end: 6:45 PM
+        location: McCormack M03-0415
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 12:00 PM
+        end: 1:00 PM
+        location: ISC 3720
   - name: Friday
-      - name: Department seminar
+    events:
+      - name: Dept. seminar
         start: 12:30 PM
         end: 1:30 PM
         location: ISC 4300

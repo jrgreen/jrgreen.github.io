@@ -52,6 +52,8 @@ collections:
   modules:
   schedules:
   notes:
+    permalink: "/:collection/:path/"
+    output: true
   announcements:
 # Default layouts for each collection type
 defaults:
@@ -70,7 +72,7 @@ defaults:
       path: ''
       type: notes
     values:
-      layout: note
+      layout: module
   - scope:
       path: ''
       type: schedules
