@@ -10,9 +10,3 @@ seo:
 ---
 
 **Chem 601** at the _University of Massachusetts Boston_ is graduate-level course covering statistical thermodynamics and its applications to chemical, physical, and biological systems both at and away from equilibrium.
-
-Links:
-
-- [Announcements](announcements.md)
-- [Course calendar](calendar.md)
-- [Weekly schedule](schedule.md)
