@@ -18,28 +18,17 @@ timeline:
   - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
+  - '6:00 PM'
+  - '6:45 PM'
+  - '7:45 PM'
 schedule:
   - name: Monday
-    events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
   - name: Tuesday
-  - name: Wednesday
     events:
       - name: Lecture
-        start: 5:30 AM
-        end: 6:45 AM
-        location: 150 Wheeler
+        start: 9:30 AM
+        end: 10:30 AM
+        location: McCormack M03-0415
       - name: Section
         start: 11:30 AM
         end: 12:30 PM
@@ -48,8 +37,8 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: 271 Soda
+  - name: Wednesday
   - name: Thursday
-  - name: Friday
     events:
       - name: Lecture
         start: 9:30 AM
@@ -63,4 +52,9 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: 271 Soda
+  - name: Friday
+      - name: Department seminar
+        start: 12:30 PM
+        end: 1:30 PM
+        location: ISC 4300
 ---

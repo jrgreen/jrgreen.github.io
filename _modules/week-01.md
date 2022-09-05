@@ -1,12 +1,12 @@
 ---
-title: Introduction to Java
+title: Thermodynamics and kinetics
 ---
 
-Sep 28
-: [Java & Git](#)
+Sep 6
+: [What is thermodynamics?](#)
   : [1.1](#)
 
-Sep 29
+Sep 7
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 
