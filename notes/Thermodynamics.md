@@ -16,11 +16,12 @@ nav_order: 1
 
 ---
 
+Think of the systems and processes typically used to illustrate thermodynamics: the expansion and compression of gases, the mixing of dilute solutions, the stretching of rubber bands, and the reversible cycles of a working fluid that operates as an engine.
 
-## What is thermodynamics?
+_What is thermodynamics?_
 Thermodynamics is a (timeless) theory of the behavior microscopic systems that predicts how they exchange energy with each other or their environment.
 It consists of a set of laws based on experiments, each introducing a new concept or new observable.
-In its traditional form, there are no assumptions about molecular properties or intermolecular forces.
+While molecular interpretations are often helpful for understanding, its traditional form, there are no assumptions about molecular properties or intermolecular forces.
 
 ## How do we use thermodynamics?
 - Rigorous rules about what processes are possible and which are impossible. Sets bounds on efficiency of those processes. It also predicts which states are matter are stable and which are unstable.
