@@ -3,8 +3,8 @@ title: Introduction and basic principles
 ---
 
 Sept 6
-: [What is thermodynamics?]({{ site.baseurl }}{% link notes/Thermodynamics.md %})
-: What is statistical mechanics?
+: [**Overview of thermodynamics**]({{ site.baseurl }}{% link notes/Overview of thermodynamics.md %})
+: [Overview of statistical mechanics]({{ site.baseurl }}{% link notes/Overview of statistical mechanics.md %})
   : Dill Ch. 1, Problem set 1
 
 Sept 8
