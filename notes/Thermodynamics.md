@@ -18,9 +18,9 @@ nav_order: 1
 
 
 ## What is thermodynamics?
-- Thermodynamics is a (timeless) theory of the behavior microscopic systems that predicts how they exchange energy with each other or their environment.
-- Thermodynamics consists of a set of laws based on experiments, each introducing a new concept or new observable.
-- Thermodynamics makes no assumptions about molecular properties or intermolecular forces.
+Thermodynamics is a (timeless) theory of the behavior microscopic systems that predicts how they exchange energy with each other or their environment.
+It consists of a set of laws based on experiments, each introducing a new concept or new observable.
+In its traditional form, there are no assumptions about molecular properties or intermolecular forces.
 
 ## How do we use thermodynamics?
 - Rigorous rules about what processes are possible and which are impossible. Sets bounds on efficiency of those processes. It also predicts which states are matter are stable and which are unstable.
