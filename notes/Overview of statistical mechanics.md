@@ -76,7 +76,7 @@ The molecules are independent and indistinguishable, so the number of states is
 $$\frac{V^N}{N!}\approx \frac{V^N}{N^N} = e^{N\ln V/N}.$$
 
 The last expression again suggests $W\sim e^N$ with an exponent that has both an _extensive_ part $N$ and an _intensive_ part $\ln V/N$.
-Comparing this last result to the [thermodynamic entropy of an ideal gas]({{ site.baseurl }}{% link notes/Overview of thermodynamics.md %}#example---isothermal-expansion-of-an-ideal-gas), we see that the entire exponent is the absolute entropy, $S/k_B$. In other words, _counting microscopic states_ has led us to a property of _macroscopic states_, the entropy,
+Comparing this last result to the [thermodynamic entropy of an ideal gas]({{ site.baseurl }}{% link notes/Overview of thermodynamics.md %}#example---isothermal-expansion-of-an-ideal-gas), we can assign the entire exponent to be the absolute entropy, $S/k_B$. In other words, _counting microscopic states_ has led us to a property of _macroscopic states_, the entropy,
 
 $$W = e^{S/k_B},$$
 
