@@ -21,7 +21,7 @@ Think of the systems and processes typically used to illustrate thermodynamics: 
 ## Definition
 
 _What is thermodynamics?_
-Thermodynamics is a (timeless) theory of the behavior microscopic systems that predicts how they exchange energy with each other or their environment.
+Thermodynamics is a (timeless) theory of the behavior macroscopic systems that predicts how they exchange energy with each other or their environment.
 Thermodynamics consists of rigorous rules about what processes are possible and which are impossible. For example, if we are interested in a particular chemical reaction, will that reaction proceed spontaneously?
 These rules are set of laws based on experiments, each introducing a new concept or new observable.
 While molecular interpretations are often helpful for understanding, its traditional form, there are no assumptions about molecular properties or intermolecular forces.
