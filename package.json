@@ -4,7 +4,9 @@
     "demo": "https://demo.ghost.io",
     "version": "2.1.9",
     "scripts": {
-        "gulp": "gulp"
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "./node_modules/.bin/netlify-lambda serve src",
+		"build": "react-scripts build"
     },
     "engines": {
         "ghost": ">=1.2.0"
