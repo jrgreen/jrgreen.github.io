@@ -1,5 +1,4 @@
 ---
-permalink: "/about/"
 layout: page
 current: team
 title: Team
