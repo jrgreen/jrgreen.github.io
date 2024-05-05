@@ -73,8 +73,8 @@ repo: jrgreen.github.io
 branch: main
 relative_source: ../jrgreen.github.io/
 destination: ../jrgreen.github.io-pages/
-production_url:  https://jrgreen.github.io/
-source_url:  https://github.com/jrgreen/jrgreen.github.io/
+production_url: https://jrgreen.github.io/
+source_url: https://github.com/jrgreen/jrgreen.github.io/
 
 exclude:
   - assets/css
