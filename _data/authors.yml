@@ -1,0 +1,11 @@
+jrgreen:
+  username: jrgreen
+  name: Jason Green
+  location: Boston, USA
+  url_full: http://jasonrgreen.net/
+  url: jasonrgreen.net
+  bio: Jason is the principal investigator of the group.
+  picture: assets/images/jrg-bw.png
+  facebook: False
+  twitter: greenjasonr
+  cover: false
