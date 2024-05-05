@@ -68,13 +68,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyllt
-repo: jasper2
-branch: master
+username: jrgreen
+repo: jrgreen.github.io
+branch: gh-pages
 relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://jekyllt.github.io/jasper2/
-source_url:  https://github.com/jekyllt/jasper2/
+destination: ../jrgreen.github.io-pages/
+production_url:  https://jrgreen.github.io/
+source_url:  https://github.com/jrgreen/jrgreen.github.io/
 
 exclude:
   - assets/css
