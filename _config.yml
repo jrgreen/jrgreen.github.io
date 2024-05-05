@@ -9,6 +9,7 @@ words_per_minute: 200
 baseurl: /
 url: http://jrgreen.github.io
 include: ['_about']
+relative_permalinks: false
 
 # Website info
 title: Green Research Group
