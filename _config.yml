@@ -7,8 +7,8 @@ words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
-#url: http://jrgreen.github.io
-url: https://jasonrgreen.net
+url: http://jrgreen.github.io
+#url: https://jasonrgreen.net
 include: ['about']
 #relative_permalinks: false
 
@@ -20,7 +20,7 @@ logo: assets/images/green-research-group-white.png
 #logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-CNAME: https://jasonrgreen.net #add cname for website to be created
+CNAME: #https://jasonrgreen.net #add cname for website to be created
 
 # Social info
 navigation: True # show the navbar links
