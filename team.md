@@ -30,7 +30,7 @@ BIO
     <img src="../assets/images/jrg-circle.png" alt="" width="150">
   </div>
   <div style="margin: 10px; float: left; width: 75%;">
-    <small><b>Professor <a href="../author/jrgreen">Jason R. Green</a>, Principal Investigator</b>
+    <small><b>Professor Jason R. Green, Principal Investigator</b>
     <div style="text-align: justify; text-justify: inter-word">
 Jason Green is an Associate Professor of Chemistry and Physics at the University of Massachusetts Boston. He received a B.S. from Case Western Reserve University (cum laude) and a Ph.D. from Purdue University, supported by a NASA Graduate Student Researchers Program Fellowship. After an NSF Postdoctoral Fellowship at the Universities of Chicago and Cambridge, he was a Postdoctoral Research Associate at Northwestern University. His research interests are at the intersection of statistical mechanics, nonlinear dynamics, and information theory and their application to complex systems in chemical physics.
 </div></small>
