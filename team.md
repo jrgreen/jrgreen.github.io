@@ -44,7 +44,8 @@ Jason Green is an Associate Professor of Chemistry and Physics at the University
     <img src="../assets/images/swetamber-das-circle.png" alt="" width="150">
   </div>
   <div style="margin: 10px; float: left; width: 75%;">
-    <small><b>Swetamber Das, Postdoctoral Research Associate</b>
+    <small><b>Swetamber Das, Postdoctoral Research Associate</b><br>
+	<small><em>Starting Fall 2024, Assistant Professor, Department of Physics, SRM University (India)</em></small>
     <div style="text-align: justify; text-justify: inter-word">
 Dr. Swetamber Das joined the group in April 2020 as a postdoctoral associate after spending two years as a visiting scientist at the Max Planck Institute for the Physics of Complex Systems (MPI-PKS) Dresden (Germany). He obtained his PhD in 2018 from the Indian Institute of Technology Madras, Chennai (India) under Prof. Neelima M. Gupte. His PhD work was on impurity dynamics, transport, and synchronization in nonlinear discrete-time systems.  He then joined MPI-PKS to explore the origins of partial barriers to transport in volume-preserving systems, with Prof. Arnd Bäcker. At MPI-PKS, he also developed an interest in biophysics and investigated a kinetic model of a gene regulatory motif exhibiting the influence of protein resource sharing.  His interests and expertise are in the field of nonlinear dynamics and chaos and his current research involves classical speed limits on the response of dynamical systems.
 </div></small>
@@ -68,7 +69,8 @@ Dr. Aishani Ghosal joined the group in January 2023 as a postdoctoral research a
     <img src="../assets/images/blank.png" alt="" width="150">
   </div>
   <div style="margin: 10px; float: left; width: 75%;">
-    <small><b>Erez Aghion, Postdoctoral Research Associate</b>
+    <small><b>Erez Aghion, Postdoctoral Research Associate</b><br>
+	<small><em>Starting Fall 2024, Assistant Professor, Department of Physics at the University of Louisiana</em></small>
     <div style="text-align: justify; text-justify: inter-word">
 Dr. Erez Aghion joined the group in March 2021 as a postdoctoral associate. He is currently working on speed limits in stochastic thermodynamics. From 2019 to 2021, he worked as a visiting scientist at the Max Planck Institute (MPI-PKS) in Dresden, Germany in the group of Holger Kantz. There, he focused on methods for deciphering anomalous diffusion in empirical time series. He completed his PhD at Bar-Ilan University, Israel, in 2019 under the supervision of Prof. Eli Barkai. His PhD research was on the physical applications of infinite-density functions for anomalous diffusion and unconfined thermal systems out of equilibrium. His experience so far is in stochastic processes, including stochastic thermodynamics, modeling, simulations and analysis.
 </div></small>
