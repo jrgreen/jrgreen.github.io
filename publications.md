@@ -55,7 +55,7 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 </details>
 </p>
 
-<p><em>Maximum speed of dissipation</em><br>Swetamber Das, Jason R. Green<br><em>Phys. Rev. E (Letter)</em> <strong>2024</strong> In press<br><a href="https://arxiv.org/abs/2305.12047" target="_blank">arXiv</a></p>
+<p><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104"><em>Maximum speed of dissipation</em></a><br>Swetamber Das, Jason R. Green<br><em>Phys. Rev. E (Letter)</em> <strong>2024</strong>109(5) L052104<br><a href="https://arxiv.org/abs/2305.12047" target="_blank">arXiv</a></p>
 
 <p><a href="https://doi.org/10.1021/acsnano.4c01524"><em>Observing the dynamics of an electrochemically driven active material with liquid electron microscopy</em></a><br>
 Wyeth S. Gibson, Justin T. Mulvey, Swetamber Das, Serxho Selmani, Jovany G. Merham, Alexander M. Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, Joseph P. Patterson<br>
