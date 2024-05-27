@@ -57,10 +57,16 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 
 <p><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104"><em>Maximum speed of dissipation</em></a><br>Swetamber Das, Jason R. Green<br><em>Phys. Rev. E (Letter)</em> <strong>2024</strong> 109(5) L052104<br><a href="https://arxiv.org/abs/2305.12047" target="_blank">arXiv</a></p>
 
-<p><a href="https://doi.org/10.1021/acsnano.4c01524"><em>Observing the dynamics of an electrochemically driven active material with liquid electron microscopy</em></a><br>
-Wyeth S. Gibson, Justin T. Mulvey, Swetamber Das, Serxho Selmani, Jovany G. Merham, Alexander M. Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, Joseph P. Patterson<br>
-<em>ACS Nano</em> <strong>2024</strong> 18(18) p. 11898–11909
+
+<div style="width: 100%; overflow: hidden;">
+     <div style="width: 600px; float: left;"> 
+<p class="" style="white-space:pre-wrap;"><a href="https://doi.org/10.1021/acsnano.4c01524"><em>Observing the dynamics of an electrochemically driven active material with liquid electron microscopy</em></a><br>Wyeth S. Gibson, Justin T. Mulvey, Swetamber Das, Serxho Selmani, Jovany G. Merham, Alexander M. Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, Joseph P. Patterson<br><em>ACS Nano</em> <strong>2024</strong> 18(18) p. 11898–11909
 </p>
+</div>
+     <div style="margin-left: 620px;"> 
+<img src="assets/images/2024_ACSNano_Wyeth.jpeg" width="250">
+</div>
+</div>
 
 <p><a href="https://doi.org/10.1039/D3SC05790A" target="_blank">CryoEM reveals the complex self-assembly of a chemically driven disulfide hydrogel</a><br>
 Paul Joshua Hurst, Justin T. Mulvey, Rebecca A. Bone, Serxho Selmani, Redford F. Hudson, Zhibin Guan, Jason R. Green, Joseph P. Patterson<br>
