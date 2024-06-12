@@ -34,6 +34,12 @@ arXiv
 <hr>
 
 <p>
+<em>Dissipation rates from experimental uncertainty</em><br>
+Aishani Ghosal, Jason R. Green<br>
+<a href="https://doi.org/10.48550/arXiv.2406.05333" target="_blank">arXiv<      /a>
+</p>
+
+<p>
 <em>Spectral bounds on Lyapunov exponents and entropy production in deterministic dynamical systems</em><br>
 Swetamber Das, Jason R. Green<br>
 Submitted
