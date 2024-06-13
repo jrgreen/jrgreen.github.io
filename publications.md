@@ -36,7 +36,7 @@ arXiv
 <p>
 <em>Dissipation rates from experimental uncertainty</em><br>
 Aishani Ghosal, Jason R. Green<br>
-<a href="https://doi.org/10.48550/arXiv.2406.05333" target="_blank">arXiv<      /a>
+<a href="https://doi.org/10.48550/arXiv.2406.05333" target="_blank">arXiv</a>
 </p>
 
 <p>
