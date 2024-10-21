@@ -6,8 +6,6 @@ nav: true
 nav_order: 6
 ---
 
-<img src="umb-oceanfront">
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/umb-oceanfront.jpg" class="img-fluid z-depth-1" %}
@@ -17,11 +15,14 @@ nav_order: 6
 A view of the water from beside the Campus Center.
 </div>
 
+#### Location
+
+We are located on the oceanfront campus of the University of Massachusetts Boston, minutes from downtown. Campus offers many nice views of downtown and the <a href="https://www.bostonharborislands.org/">harbor islands</a>.
+
+The group is housed in the <a href="https://www.umb.edu/campus-planning/projects/integrated-sciences-complex/">Integrated Science Complex</a>, just off the <a href="https://www.umb.edu/campus-planning/projects/harborwalk/">Harborwalk</a>.
 
 #### Getting here
 
-We are located on the oceanfront campus of the University of Massachusetts Boston, minutes from downtown.
+A taxi or ride sharing service will drop you at the building. Alternatively, you can take the MBTA red line to the JFK/UMass stop. There are free shuttles from the stop that run regularly to campus. The Integrated Sciences Complex (ISC) is within easy walking distance from all of the campus shuttle stops. 
 
-The group is housed in the Integrated Science Complex.
-
-A taxi or ride sharing service will drop you at the building. Alternatively, you can take the MBTA red line to the JFK/UMass stop. There are free shuttles from the stop that run regularly to campus. The Integrated Sciences Complex (ISC) is within easy walking distance from all of the campus shuttle stops. More information about getting to UMB can be found here and a campus map is linked here. The Department of Chemistry is on the third floor of the ISC (#5 on the map). A catwalk, shown above, connects the ISC to the Quinn Administration building.
+More information about getting to UMB can be found <a href="https://www.umb.edu/event-services/contact-us/getting-here/">here</a> and a campus map is linked <a href="https://www.umb.edu/map/">here</a>. The Department of Chemistry is on the third floor of the ISC (#5 on the map). A catwalk, shown above, connects the ISC to the Quinn Administration building.
