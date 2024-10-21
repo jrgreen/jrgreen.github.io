@@ -36,7 +36,7 @@ Paul Joshua Hurst, Justin T. Mulvey, Rebecca A. Bone, Serxho Selmani, Redford F.
 We are establishing a theory of thermodynamic speed limits, integrating this theory with machine learning, and beginning to guide material design with techniques that respect, and even leverage, this theory.
 
 We have proven that the rates of energy and entropy exchange away from equilibrium are subject to a thermodynamic speed limit; there is an upper bound $$\tau^{-1}$$ on the rate at which heat can be dissipated and entropy can be produced. 
-For example, a system that dissipates energy as heat with a rate $\dot{Q}$ and is subject to energy fluctuates with a standard deviation $\Delta\epsilon$ has the speed limit~\cite{Nicholson:2020} on the speed of heat flow,
+For example, a system that dissipates energy as heat with a rate $\dot{Q}$ and is subject to energy fluctuates with a standard deviation $$\Delta\epsilon$$ has the speed limit on the speed of heat flow,
 \begin{equation*} 
 	\tau_{Q}^{-1} := \frac{|\dot{Q}|}{\Delta\epsilon} \leq \sqrt{I_F} =: \tau^{-1}.
 \end{equation*}
