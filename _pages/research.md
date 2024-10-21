@@ -56,12 +56,6 @@ Aishani Ghosal, Jason R. Green<br>
   <p class="" style="white-space:pre-wrap;"><a href="https://link.aps.org/doi/10.1103/PhysRevResearch.5.L012016" target="_blank">Speed limits on deterministic chaos and dissipation</a><br>Swetamber Das, Jason R. Green<br><em>Phys. Rev. Res. (Letter)</em> <strong>2023</strong> 5(1) p. L012016<strong><br></strong><a href="https://arxiv.org/abs/2110.06993" target="_blank">arXiv</a></p>
 
 <p><a href="https://www.nature.com/articles/s41567-020-0981-y" target="_blank">Time-information uncertainty relations in thermodynamics</a><br>Schuyler B. Nicholson, Luis Pedro García-Pintos, Adolfo del Campo, Jason R. Green<br><em>Nat. Phys. </em><strong>2020 </strong>16(12) p. 1211-1215<strong><br></strong><a href="https://arxiv.org/abs/2001.05418" target="_blank">arXiv</a><br>
-<details>
-<summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
-<blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
-Editor summary: “A time–information uncertainty relation in thermodynamics has been derived, analogous to the time-energy uncertainty relation in quantum mechanics, imposing limits on the speed of energy and entropy exchange between a system and external reservoirs."
-</blockquote>
-</details>
 </p>
 
 <p><a href="https://doi.org/10.1103/PhysRevE.98.032106" target="_blank">Nonequilibrium uncertainty principle from information geometry</a><br>Schuyler B. Nicholson, Adolfo del Campo, Jason R. Green<br><em>Phys. Rev. E</em>&nbsp;<strong>2018</strong>&nbsp;98(3) 032106<br><a href="https://arxiv.org/abs/1801.02242" target="_blank">arXiv</a>
