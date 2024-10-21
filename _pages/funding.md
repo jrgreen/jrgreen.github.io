@@ -11,11 +11,12 @@ nav_order: 4
 
 We appreciate financial support from the National Science Foundation and Department of Energy.
 
-<div style="clear: both; display: inline-flex">
-  <div style="margin: 10px; float: left; width: 25%; padding-right: 20px">
+<div class="container">
+  <div class="row justify-content-md-center">
+  <div class="col col-lg-2">
     <img src="../assets/img/NSF_Official_logo_High_Res_1200ppi.png" alt="" width="150">
   </div>
-  <div style="margin: 10px; float: left; width: 75%;">
+  <div style="col-md-auto">
     <b>National Science Foundation, Chemical Theory, Models and Computational Methods
 2022-2024</b>
     <div style="text-align: justify; text-justify: inter-word">
