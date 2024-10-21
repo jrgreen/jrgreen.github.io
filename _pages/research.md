@@ -66,5 +66,3 @@ Editor summary: “A time–information uncertainty relation in thermodynamics h
 
 <p><a href="https://doi.org/10.1103/PhysRevE.98.032106" target="_blank">Nonequilibrium uncertainty principle from information geometry</a><br>Schuyler B. Nicholson, Adolfo del Campo, Jason R. Green<br><em>Phys. Rev. E</em>&nbsp;<strong>2018</strong>&nbsp;98(3) 032106<br><a href="https://arxiv.org/abs/1801.02242" target="_blank">arXiv</a>
 </p>
-
----
