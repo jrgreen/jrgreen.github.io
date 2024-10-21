@@ -14,7 +14,7 @@ a {
 }
 </style>-->
 
-<font size="4pt">
+<!--<font size="4pt">-->
 <p>
 List of manuscripts on the
 <a href="https://arxiv.org/a/0000-0003-2572-2838.html">
@@ -62,7 +62,7 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 </p>
 </div>
      <div style="margin-left: 620px;"> 
-<img src="assets/img/2024_ACSNano_Wyeth.jpeg" width="250">
+<img src="2024_ACSNano_Wyeth.jpeg" width="250">
 </div>
 </div>
 
@@ -93,7 +93,7 @@ Numerous biological and artificial processes exploit multistability and nonstati
 
 </div>
      <div style="margin-left: 620px;"> 
-<img src="assets/img/Lorenz-attractor-speed-limit.png" width="250">
+<img src="Lorenz-attractor-speed-limit.png" width="250">
 </div>
 </div>
 
@@ -257,4 +257,4 @@ In chemistry and physics, it is well known that cooling a fluid to its liquid-va
 <a href="http://dx.doi.org/10.1016/j.apsusc.2004.03.017" target="_blank">Collisions of organic ions at surfaces</a><br>R. Graham Cooks, Sung-Chan Jo, Jason R. Green<br><em>Appl. Surf. Sci.</em>&nbsp;<strong>2004</strong>&nbsp;231-232 p. 13-21
 </p>
 
-</font>
+<!--</font>-->
