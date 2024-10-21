@@ -1,0 +1,4 @@
+<b>Erez Aghion, Postdoctoral Research Associate</b><br>
+<em>Starting Fall 2024: Assistant Professor, Department of Physics, University of Louisiana</em><br>
+Dr. Erez Aghion joined the group in March 2021 as a postdoctoral associate. He is currently working on speed limits in stochastic thermodynamics. From 2019 to 2021, he worked as a visiting scientist at the Max Planck Institute (MPI-PKS) in Dresden, Germany in the group of Holger Kantz. There, he focused on methods for deciphering anomalous diffusion in empirical time series. He completed his PhD at Bar-Ilan University, Israel, in 2019 under the supervision of Prof. Eli Barkai. His PhD research was on the physical applications of infinite-density functions for anomalous diffusion and unconfined thermal systems out of equilibrium. His experience so far is in stochastic processes, including stochastic thermodynamics, modeling, simulations and analysis.
+
