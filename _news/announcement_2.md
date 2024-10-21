@@ -1,33 +1,33 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Open positions in the group
+date: 2024-07-01 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+We currently have an opening for a Ph.D. student.
+
+### Graduate Research Openings
+
+<small>There are open positions for Ph.D. students in Chemistry, Physics, and Computational Science. Our research group is located on the oceanfront campus of the University, Massachusetts, Boston, minutes from downtown. To apply, please submit all graduate-program application materials through the appropriate departmental website. Interested students are also encouraged contact Professor Green by email to learn more about ongoing research in the group.</small>
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+_Position filled 1 September 2024. Please check back here or reach out for other opportunities._
 
-#### Hipster list
+### Postdoctoral Researcher Openings
+<br>
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+<small>As a part of NSF funded projects, our group at the University of Massachusetts Boston has an opening for a highly-motivated and cross-disciplinary postdoctoral researcher interested in statistical mechanics and machine learning.</small>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+<small>The position is open to recent Ph.D.s with a demonstrated ability to conduct high-impact research. The successful candidate will join a cutting-edge theoretical research project, collaborating with the PI and other group members to develop statistical mechanics, machine learning, and nonlinear dynamics to understand nonequilibrium processes. The group’s research is interdisciplinary, focusing on complex chemical and physical systems and their dynamics away from equilibrium. For example, the group has been actively working on thermodynamic speed limits (e.g., Nicholson, García-Pintos, del Campo, Green _Nat. Phys._ **2020** 16(12), p. 1211-1215; Das, Green _Phys. Rev. Research_ **2023** 5 L012016; Das, Green _Phys. Rev. E_ **2024** in press <a href="https://doi.org/10.48550/arXiv.2305.12047">arXiv:2305.12047</a>). Familiarity with speed limits or complementary theory would be a plus.</small>
 
----
+<small>**Qualifications:** Candidates will work on NSF-funded projects at the intersection of machine learning and statistical mechanics. The position is open to recent PhDs with a demonstrated ability to conduct high-impact research.</small>
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+<small>**Location:** The group is located at the University of Massachusetts, right on Boston Harbor and minutes from downtown Boston. For more information, please explore our website.</small>
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+<small>**To apply:** Interested candidates should e-mail an application to Professor Green (jason.green@umb.edu) including a curriculum vitae and the names/contact information of two potential recommendations.</small>
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+<small>Candidates selected for further consideration will be asked to send letters of recommendation. Review of applications will begin immediately and continue until the positions are filled.</small>
+
