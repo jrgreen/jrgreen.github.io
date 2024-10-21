@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='umb.edu'>University of Massachusetts Boston</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.umb.edu/'>at the University of Massachusetts Boston</a>
 
 profile:
   align: right
