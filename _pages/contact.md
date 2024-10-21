@@ -6,7 +6,17 @@ nav: true
 nav_order: 6
 ---
 
-<img src="https://www.digitalcommonwealth.org/search/commonwealth:wh246s552#">
+<img src="umb-oceanfront">
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/umb-oceanfront.jpg" class="img-fluid z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+A view of the water from beside the Campus Center.
+</div>
+
 
 #### Getting here
 
