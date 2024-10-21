@@ -17,8 +17,8 @@ A view of the water from beside the Campus Center.
 
 #### Address
 
-> University of Massachusetts, Boston
-> 100 Morrissey Boulevard
+> University of Massachusetts, Boston\
+> 100 Morrissey Boulevard\
 > Boston, MA 02125
 
 #### Location
