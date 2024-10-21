@@ -39,9 +39,11 @@ We are establishing a theory of thermodynamic speed limits, integrating this the
 
 We have proven that the rates of energy and entropy exchange away from equilibrium are subject to a thermodynamic speed limit; there is an upper bound $$\tau^{-1}$$ on the rate at which heat can be dissipated and entropy can be produced. 
 For example, a system that dissipates energy as heat with a rate $$\dot{Q}$$ and is subject to energy fluctuates with a standard deviation $$\Delta\epsilon$$ has the speed limit on the speed of heat flow,
+
 \begin{equation*} 
 	\tau_{Q}^{-1} := \frac{|\dot{Q}|}{\Delta\epsilon} \leq \sqrt{I_F} =: \tau^{-1}.
 \end{equation*}
+
 This speed limit holds for heat, dissipated/chemical work and entropy depending on the experimental constraints on the system. In all of these inequalities, the timescale of transient dynamical fluctuations is bounded by the Fisher information. 
 They apply to transient systems away from thermodynamic equilibrium, independent of the stochastic dynamics or their function.
 
