@@ -61,9 +61,9 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 <p class="" style="white-space:pre-wrap;"><a href="https://doi.org/10.1021/acsnano.4c01524"><em>Observing the dynamics of an electrochemically driven active material with liquid electron microscopy</em></a><br>Wyeth S. Gibson, Justin T. Mulvey, Swetamber Das, Serxho Selmani, Jovany G. Merham, Alexander M. Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, Joseph P. Patterson<br><em>ACS Nano</em> <strong>2024</strong> 18(18) p. 11898–11909
 </p>
 </div>
-     <div style="margin-left: 620px;"> 
+<!--<div style="margin-left: 620px;"> 
 <img src="../assets/img/2024_ACSNano_Wyeth.jpeg" width="250">
-</div>
+</div>-->
 </div>
 
 <p><a href="https://doi.org/10.1039/D3SC05790A" target="_blank">CryoEM reveals the complex self-assembly of a chemically driven disulfide hydrogel</a><br>
@@ -92,9 +92,9 @@ Numerous biological and artificial processes exploit multistability and nonstati
   <p class="" style="white-space:pre-wrap;"><a href="https://link.aps.org/doi/10.1103/PhysRevResearch.5.L012016" target="_blank">Speed limits on deterministic chaos and dissipation</a><br>Swetamber Das, Jason R. Green<br><em>Phys. Rev. Res. (Letter)</em> <strong>2023</strong> 5(1) p. L012016<strong><br></strong><a href="https://arxiv.org/abs/2110.06993" target="_blank">arXiv</a></p>
 
 </div>
-     <div style="margin-left: 620px;"> 
+<!--<div style="margin-left: 620px;"> 
 <img src="../assets/img/Lorenz-attractor-speed-limit.png" width="250">
-</div>
+</div>-->
 </div>
 
 <p><a href="https://doi.org/10.1063/5.0125479" target="_blank">Optimizing dynamical functions for speed with stochastic paths</a><br>Rebecca A. Bone, Jason R. Green<br><em>J. Chem. Phys.</em> <strong>2022</strong> 157(22) p. 224101<br>
