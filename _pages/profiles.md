@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: Group
+title: Team
 description: 
 nav: true
 nav_order: 7
@@ -26,6 +26,48 @@ profiles:
   - align: left
     image: aishani-ghosal-circle.png
     content: about_ghosal.md
+    image_circular: false # crops the image to make it circular
+    more_info: #>
+      #<p>ISC 3610</p>
+  - align: left
+    image: aishani-ghosal-circle.png
+    content: about_ghosal.md
+    image_circular: false # crops the image to make it circular
+    more_info: #>
+      #<p>ISC 3610</p>
+  - align: left
+    image: erez-aghion-circle.png
+    content: about_aghion.md
+    image_circular: false # crops the image to make it circular
+    more_info: #>
+      #<p>ISC 3610</p>
+  - align: left
+    image: walter-lai-circle.png
+    content: about_lai.md
+    image_circular: false # crops the image to make it circular
+    more_info: #>
+      #<p>ISC 3610</p>
+  - align: left
+    image: blank.png
+    content: about_lucas.md
+    image_circular: false # crops the image to make it circular
+    more_info: #>
+      #<p>ISC 3610</p>
+  - align: left
+    image: blank.png
+    content: about_moghassemi.md
+    image_circular: false # crops the image to make it circular
+    more_info: #>
+      #<p>ISC 3610</p>
+  - align: left
+    image: mohamed-sahbani-circle.png
+    content: about_sahbani.md
+    image_circular: false # crops the image to make it circular
+    more_info: #>
+      #<p>ISC 3610</p>
+  - align: left
+    image: blank.png
+    content: about_ueon.md
     image_circular: false # crops the image to make it circular
     more_info: #>
       #<p>ISC 3610</p>
