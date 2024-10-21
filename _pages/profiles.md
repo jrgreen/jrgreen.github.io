@@ -30,13 +30,7 @@ profiles:
     more_info: #>
       #<p>ISC 3610</p>
   - align: left
-    image: aishani-ghosal-circle.png
-    content: about_ghosal.md
-    image_circular: false # crops the image to make it circular
-    more_info: #>
-      #<p>ISC 3610</p>
-  - align: left
-    image: erez-aghion-circle.png
+    image: blank.png
     content: about_aghion.md
     image_circular: false # crops the image to make it circular
     more_info: #>
