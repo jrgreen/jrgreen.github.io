@@ -18,11 +18,10 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-<small>Our research uses theory, computation, and data to understand how to design synthetic material systems that perform useful dynamical functions.
+Our research uses theory, computation, and data to understand how to design synthetic material systems that perform useful dynamical functions.
 These functions include the assembly and replication of multiscale structures, the capture and conversion of energy, the regulation of chemical reaction networks for keeping time, and the generation of power.
 To address this challenge, we are develop theory at the intersection of statistical mechanics, nonlinear dynamics, and data science.
 Our goal is to guide experiments and produce energy-efficient materials that harness flows of matter and energy to execute dynamical functions on finely tuned timescales.
-</small>
 
 <!--<small>
 As an entry point to our work, you might start with our [publications](publications).
