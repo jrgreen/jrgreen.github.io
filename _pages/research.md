@@ -4,6 +4,8 @@ permalink: /research/
 title: Research
 nav: true
 nav_order: 3
+toc:
+  sidebar: left
 ---
 
 #### Controlling the dissipative dynamics of chemically-active materials
