@@ -1,3 +1,3 @@
-<br>Tae Hyun Ueon, Ph.D. student (Chemistry)</b><br>
+<b>Tae Hyun Ueon, Ph.D. student (Chemistry)</b><br>
 Tae joined the group in September 2022 as a Ph.D. student on the Physical Chemistry track. He spent three years in Sydney University with a major in Neuroscience before transferring to UMass Boston in the Fall of 2018 with a major in Chemistry. He graduated with a Bachelor's Degree in 2022 (summa cum laude). At UMass Boston, he worked on a project with Prof. Neil Reilly modeling the electronic spectrum of alpha-hydrofulvenyl radical in the framework of Franck-Condon-Herzberg-Teller theory. His research currently focuses on speed limits in stochastic thermodynamics.
 
