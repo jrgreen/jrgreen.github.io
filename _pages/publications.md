@@ -93,7 +93,7 @@ Numerous biological and artificial processes exploit multistability and nonstati
 
 </div>
      <div style="margin-left: 620px;"> 
-<img src="assets/images/Lorenz-attractor-speed-limit.png" width="250">
+<img src="assets/img/Lorenz-attractor-speed-limit.png" width="250">
 </div>
 </div>
 
