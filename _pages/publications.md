@@ -39,11 +39,14 @@ Schuyler B. Nicholson, Jason R. Green<br>
 Under revision<br>
 <a href="https://arxiv.org/abs/2105.01588" target="_blank">arXiv</a>
 <details>
-<summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
-<blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
+<!--<summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
+<blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">-->
+
+{% details Summary %}
 We show how thermodynamic uncertainty relations and speed limits on nonequilibrium processes derive from linear regression. Using optimal linear models, we show that physical observables give predictions of the equation of motion on statistical manifolds.
-</blockquote>
-</details>
+{% enddetails %}
+<!--</blockquote>
+</details>-->
 </p>
 
 <p>Spectral bounds on the entropy flow rate and Lyapunov exponents in differentiable dynamical systems<br>
