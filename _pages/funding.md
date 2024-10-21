@@ -16,7 +16,7 @@ We appreciate financial support from the National Science Foundation and Departm
   <div class="col col-lg-2">
     <img src="../assets/img/NSF_Official_logo_High_Res_1200ppi.png" alt="" width="150">
   </div>
-  <div style="col-md-auto">
+  <div style="col-6">
     <b>National Science Foundation, Chemical Theory, Models and Computational Methods
 2022-2024</b>
     <div style="text-align: justify; text-justify: inter-word">
@@ -32,7 +32,7 @@ We appreciate financial support from the National Science Foundation and Departm
   <div class="col col-lg-2">
     <img src="../assets/img/NSF_Official_logo_High_Res_1200ppi.png" alt="" width="150">
   </div>
-  <div style="col-md-auto">
+  <div style="col-6">
     <b>National Science Foundation, Dynamics, Control and Systems Diagnostics
 2021-2024</b>
     <div style="text-align: justify; text-justify: inter-word">
@@ -48,7 +48,7 @@ We appreciate financial support from the National Science Foundation and Departm
   <div class="col col-lg-2">
     <img src="../assets/img/DOE_Logo_Color-Seal_White-Text_2893x719.png" alt="" width="125">
   </div>
-  <div style="col-md-auto">
+  <div style="col-6">
     <b>Department of Energy, Office of Basic Energy Sciences, Biomolecular Materials Program,
 2023-2026</b>
     <div style="text-align: justify; text-justify: inter-word">
