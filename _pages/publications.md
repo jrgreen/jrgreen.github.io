@@ -41,13 +41,13 @@ Under revision<br>
 <!--<details>
 <summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">-->
-</p>
 
 {% details Summary %}
 We show how thermodynamic uncertainty relations and speed limits on nonequilibrium processes derive from linear regression. Using optimal linear models, we show that physical observables give predictions of the equation of motion on statistical manifolds.
 {% enddetails %}
 <!--</blockquote>
 </details>-->
+</p>
 
 <p>Spectral bounds on the entropy flow rate and Lyapunov exponents in differentiable dynamical systems<br>
 Swetamber Das, Jason R. Green<br>
@@ -79,12 +79,15 @@ Mohamed Sahbani, Swetamber Das, Jason R. Green<br><em>Chaos</em> <strong>2023</s
 </p>
 
 <p><a href="https://doi.org/10.1063/5.0142589" target="_blank">Prevalence of multistability and nonstationarity in driven chemical networks<br></a>Zachary G. Nicolaou, Schuyler B. Nicholson, Adilson E. Motter, Jason R. Green<br><em>J. Chem. Phys.</em> <strong>2023</strong> 158(22) p. 225101
-<details>
+<!--<details>
 <summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
-Numerous biological and artificial processes exploit multistability and nonstationarity in networks of chemical reactions to achieve important functions. While thermodynamic driving and autocatalysis are known to give rise to such complex chemical behaviors in specific systems, it is unclear how general these mechanisms are in more generic chemical networks. Synthesizing knowledge from systems chemistry, network theory, and dynamical systems, we characterize general conditions leading to complexity in driven chemical networks. Our results will enable the design of synthetic chemical reactions and may provide insights into the origins of life.
 </blockquote>
-</details>
+</details>-->
+
+{% details Summary %}
+Numerous biological and artificial processes exploit multistability and nonstationarity in networks of chemical reactions to achieve important functions. While thermodynamic driving and autocatalysis are known to give rise to such complex chemical behaviors in specific systems, it is unclear how general these mechanisms are in more generic chemical networks. Synthesizing knowledge from systems chemistry, network theory, and dynamical systems, we characterize general conditions leading to complexity in driven chemical networks. Our results will enable the design of synthetic chemical reactions and may provide insights into the origins of life.
+{% enddetails %}
 </p>
 
 <p><a href="https://doi.org/10.1515/jnet-2022-0104" target="_blank">Relations between timescales of stochastic thermodynamic observables</a><br>Erez Aghion, Jason R. Green<br><em>J. Non-Equilib. Thermodyn.</em> <strong>2023</strong> 48(4) p. 417-432</p><p class="" style="white-space:pre-wrap;"><a href="https://doi.org/10.1088/1751-8121/acb5d6" target="_blank">Thermodynamic speed limits for mechanical work</a><br>Erez Aghion, Jason R. Green<br><em>J. Phys. A: Math. Theor.</em> <em>(Letter) </em><strong>2023</strong> 56(5) p. 05LT01<strong><br></strong><a href="http://arxiv.org/abs/2204.10368" target="_blank">arXiv</a></p>
@@ -106,60 +109,79 @@ Supporting code: <img style='horizontal-align:left; vertical-align:middle; displ
 
 <p><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.054151" target="_blank">Stochastic paths controlling speed and dissipation</a><br>Rebecca A. Bone, Daniel J. Sharpe, David J. Wales, Jason R. Green<br><em>Phys. Rev. E</em> <strong>2022</strong> 106(5) p. 054151<strong><br></strong><a href="http://arxiv.org/abs/2109.12202" target="_blank">arXiv</a><br>
 <a href="https://zenodo.org/badge/latestdoi/280687280">Supporting code: <img style='horizontal-align:left; vertical-align:middle; display:inline;' src="https://zenodo.org/badge/280687280.svg" alt="DOI"></a>
-<details>
+<!--<details>
 <summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
-Thermodynamic intuition suggests that fast, irreversible processes will dissipate more energy and entropy than slow, quasistatic processes connecting the same initial and final states. Here, we show that this intuition does not necessarily hold for stochastic processes when there are strong nonequilibrium currents.
 </blockquote>
-</details>
+</details>-->
+
+{% details Summary %}
+Thermodynamic intuition suggests that fast, irreversible processes will dissipate more energy and entropy than slow, quasistatic processes connecting the same initial and final states. Here, we show that this intuition does not necessarily hold for stochastic processes when there are strong nonequilibrium currents.
+{% enddetails %}
 </p>
 
 <p><a href="https://doi.org/10.1063/5.0106714" target="_blank">Dynamic scaling of stochastic thermodynamic observables for chemical reactions at and away from equilibrium</a><br>Shrabani Mondal, Jonah S. Greenberg, Jason R. Green<br><em>J. Chem. Phys.</em> <strong>2022 </strong>157(19) p. 194105<strong><br></strong><a href="http://arxiv.org/abs/2101.01613" target="_blank">arXiv</a></p><p class="" style="white-space:pre-wrap;"><a href="https://link.aps.org/doi/10.1103/PhysRevE.106.054135" target="_blank">Density matrix formulation of dynamical systems<br></a>Swetamber Das, Jason R. Green<br><em>Phys. Rev. E</em> <strong>2022</strong> 106(5) p. 054135<strong><br></strong><a href="https://arxiv.org/abs/2106.05911" target="_blank">arXiv</a>
-<details>
+<!--<details>
 <summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
-We derive a theory for any classical dynamical system that is analogous to the density matrix formulation of quantum mechanics. Defining states in terms of a classical density matrix leads to generalizations of Liouville's theorem and Liouville's equation, establishing an alternative computationally-tractable foundation for nonequilibrium statistical mechanics.
 </blockquote>
-</details>
+</details>-->
+
+{% details Summary %}
+We derive a theory for any classical dynamical system that is analogous to the density matrix formulation of quantum mechanics. Defining states in terms of a classical density matrix leads to generalizations of Liouville's theorem and Liouville's equation, establishing an alternative computationally-tractable foundation for nonequilibrium statistical mechanics.
+{% enddetails %}
 </p>
 
 <p class="" style="white-space:pre-wrap;"><a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.011038">Unifying quantum and classical speed limits on observables</a><br>Luis Pedro García-Pintos, Schuyler B. Nicholson, Jason R. Green, Adolfo del Campo, Alexey V. Gorshkov<br><em>Phys. Rev. X</em> <strong>2022</strong> 12(1) p. 011038<br><a href="https://arxiv.org/abs/2108.04261" target="_blank">arXiv</a>
-<details>
+<!--<details>
 <summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
-We derive a bound on the speed with which observables of open quantum systems evolve. It divides into Mandelstam and Tamm's original time-energy uncertainty relation and a time-information uncertainty relation recently derived for classical systems, generalizing both to open quantum systems.
 </blockquote>
-</details>
+</details>-->
+
+{% details Summary %}
+We derive a bound on the speed with which observables of open quantum systems evolve. It divides into Mandelstam and Tamm's original time-energy uncertainty relation and a time-information uncertainty relation recently derived for classical systems, generalizing both to open quantum systems.
+{% enddetails %}
 </p>
 
 <p class="" style="white-space:pre-wrap;"><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043059" target="_blank">Non-normality and non-monotonic dynamics in complex reaction networks</a><br>Zachary G. Nicolaou, Takashi Nishikawa, Schuyler B. Nicholson, Jason R. Green, Adilson E. Motter<br><em>Phys. Rev. Res.</em> <strong>2020</strong> 2(4) p. 043059<br><a href="https://arxiv.org/abs/2008.09616">arXiv</a></p>
 
 <p><a href="https://www.nature.com/articles/s41567-020-0981-y" target="_blank">Time-information uncertainty relations in thermodynamics</a><br>Schuyler B. Nicholson, Luis Pedro García-Pintos, Adolfo del Campo, Jason R. Green<br><em>Nat. Phys. </em><strong>2020 </strong>16(12) p. 1211-1215<strong><br></strong><a href="https://arxiv.org/abs/2001.05418" target="_blank">arXiv</a><br>
-<details>
+<!--<details>
 <summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
-Editor summary: “A time–information uncertainty relation in thermodynamics has been derived, analogous to the time-energy uncertainty relation in quantum mechanics, imposing limits on the speed of energy and entropy exchange between a system and external reservoirs."
 </blockquote>
-</details>
+</details>-->
+
+{% details Summary %}
+Editor summary: “A time–information uncertainty relation in thermodynamics has been derived, analogous to the time-energy uncertainty relation in quantum mechanics, imposing limits on the speed of energy and entropy exchange between a system and external reservoirs."
+{% enddetails %}
 </p>
 
 <p><a href="https://pubs.acs.org/doi/10.1021/acs.jpca.0c02734">Benchmarking the performance of the ReaxFF reactive force field on hydrogen combustion systems</a><br>Luke W. Bertels, Lucas B. Newcomb, Mohammad Alaghemandi, Jason R. Green, Martin Head-Gordon<br><em>J. Phys. Chem. A</em>&nbsp;<strong>2020</strong> 124(27) p.5631–5645
 </p>
 
 <p class="" style="white-space:pre-wrap;"><a href="https://www.nature.com/articles/s41467-019-10040-3" target="_blank">Critical fluctuations and slowing down of chaos</a><br>Moupriya Das, Jason R. Green<br><em>Nat. Commun.</em>&nbsp;<strong>2019</strong>&nbsp;10(1) p. 2155<br><a href="https://rdcu.be/bBKdb" target="_blank">Full text</a><br><a href="https://arxiv.org/abs/1808.03255" target="_blank">arXiv</a>
-<details>
+<!--<details>
 <summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
-Editor summary: "It is well known that fluids become opaque at the liquid-vapor critical point, but a description of the underlying mechanical instability is still missing. Das and Green leverage nonlinear dynamics to quantify the role of chaos in the emergence of this critical phenomenon."
 </blockquote>
-</details>
+</details>-->
 <!-- It is well known that cooling a fluid to its liquid-vapor critical point will cause a striking transformation -- the fluid will suddenly appear cloudy. But, what happens to the degree of chaos in the molecular motion as the fluid approaches the critical point and begins to practice splitting into liquid and gas? -->
-<details>
+<!--<details>
 <summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
-In chemistry and physics, it is well known that cooling a fluid to its liquid-vapor critical point will cause a striking transformation called critical opalescence -- at this special set of conditions, the fluid suddenly appears cloudy. The hard-earned explanation for this phenomenon is that as it is cooled, the fluid practices splitting into liquid and gas by forming regions of low and high density. Fluctuations and correlations in these regions grow precipitously to macroscopic length scales and scatter light, making the fluid appear opaque. This statistical description has sufficed for towering advances in statistical physics including universal scaling laws and the powerful theoretical machinery of the renormalization group (for which K. Wilson was awarded the Nobel Prize in 1982). Less understood, however, is what impact this critical phenomenon has on the motion of individual molecules. Missing is a complete understanding of the mechanical instability driving the anomalous statistical features of this singular state. That is, we do not currently have an understanding worthy of Gibbs' name for this program -- statistical mechanics. Using theory and computer simulations, we have shed new light on this problem. We have shown that the degree of chaos in the molecular motion is suppressed as the fluid approaches the critical point and begins to practice splitting into liquid and gas.
 </blockquote>
-</details>
+</details>-->
+
+{% details Editor Summary %}
+"It is well known that fluids become opaque at the liquid-vapor critical point, but a description of the underlying mechanical instability is still missing. Das and Green leverage nonlinear dynamics to quantify the role of chaos in the emergence of this critical phenomenon."
+{% enddetails %}
+
+{% details Summary %}
+In chemistry and physics, it is well known that cooling a fluid to its liquid-vapor critical point will cause a striking transformation called critical opalescence -- at this special set of conditions, the fluid suddenly appears cloudy. The hard-earned explanation for this phenomenon is that as it is cooled, the fluid practices splitting into liquid and gas by forming regions of low and high density. Fluctuations and correlations in these regions grow precipitously to macroscopic length scales and scatter light, making the fluid appear opaque. This statistical description has sufficed for towering advances in statistical physics including universal scaling laws and the powerful theoretical machinery of the renormalization group (for which K. Wilson was awarded the Nobel Prize in 1982). Less understood, however, is what impact this critical phenomenon has on the motion of individual molecules. Missing is a complete understanding of the mechanical instability driving the anomalous statistical features of this singular state. That is, we do not currently have an understanding worthy of Gibbs' name for this program -- statistical mechanics. Using theory and computer simulations, we have shed new light on this problem. We have shown that the degree of chaos in the molecular motion is suppressed as the fluid approaches the critical point and begins to practice splitting into liquid and gas.
+{% enddetails %}
+
 </p>
 
 <p class="" style="white-space:pre-wrap;"><a href="https://pubs.acs.org/doi/full/10.1021/acs.jpcb.9b02811" target="_blank">Typical stochastic paths in the dissipative assembly of fibrous materials</a><br>Schuyler B. Nicholson, Rebecca A. Bone, Jason R. Green<br><em>J. Phys. Chem. B</em>&nbsp;<strong>2019</strong>&nbsp;123(22) p. 4792-4802<br><strong><em>Invited submission to the "Deciphering Molecular Complexity in Dynamics and Kinetics - From the Single Molecule to the Single Cell Level" </em></strong><a href="https://pubs.acs.org/page/jpcbfk/vsi/molecular-complexity" target="_blank">issue</a>
