@@ -1,7 +1,9 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink: /about/
+nav: true
+nav_order: 1
 subtitle: at the <a href='https://www.umb.edu/'>University of Massachusetts Boston</a>
 
 #profile:
