@@ -12,7 +12,7 @@ nav_order: 4
 We appreciate financial support from the National Science Foundation and Department of Energy.
 
 <div style="clear: both; display: inline-flex">
-  <div style="margin: 10px; float: left; width: 25%; padding-right: 20px">
+  <div style="margin: 10px; float: center; width: 25%; padding-right: 20px">
     <img src="../assets/img/NSF_Official_logo_High_Res_1200ppi.png" alt="" width="150">
   </div>
   <div style="margin: 10px; float: left; width: 75%;">
@@ -26,7 +26,7 @@ We appreciate financial support from the National Science Foundation and Departm
 </div>
 
 <div style="clear: both; display: inline-flex">
-  <div style="margin: 10px; float: left; width: 25%; padding-right: 20px">
+  <div style="margin: 10px; float: center; width: 25%; padding-right: 20px">
     <img src="../assets/img/NSF_Official_logo_High_Res_1200ppi.png" alt="" width="150">
   </div>
   <div style="margin: 10px; float: left; width: 75%;">
@@ -40,7 +40,7 @@ We appreciate financial support from the National Science Foundation and Departm
 </div>
 
 <div style="clear: both; display: inline-flex">
-  <div style="margin: 10px; float: left; width: 25%; padding-right: 20px">
+  <div style="margin: 10px; float: center; width: 25%; padding-right: 20px">
     <img src="../assets/img/DOE_Logo_Color-Seal_White-Text_2893x719.png" alt="" width="125">
   </div>
   <div style="margin: 10px; float: left; width: 75%;">
