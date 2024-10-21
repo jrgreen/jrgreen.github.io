@@ -30,13 +30,6 @@ Aishani Ghosal, Jason R. Green<br>
 <a href="https://doi.org/10.48550/arXiv.2406.05333" target="_blank">arXiv</a>
 </p>
 
-<p>
-<em>Spectral bounds on the entropy flow rate and Lyapunov exponents in differentiable dynamical systems</em><br>
-Swetamber Das, Jason R. Green<br>
-Accepted
-<br><em>J. Phys. A: Math. Theor.</em> <em>(Letter) </em><strong>2024</strong>
-</p>
-
 <p><em>Review: Geometric perspective on thermodynamic uncertainty relations and speed limits</em><br>Jason R. Green
 Under revision
 </p>
@@ -53,12 +46,18 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 </details>
 </p>
 
-<p><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104"><em>Maximum speed of dissipation</em></a><br>Swetamber Das, Jason R. Green<br><em>Phys. Rev. E (Letter)</em> <strong>2024</strong> 109(5) L052104<br><a href="https://arxiv.org/abs/2305.12047" target="_blank">arXiv</a></p>
+<p>Spectral bounds on the entropy flow rate and Lyapunov exponents in differentiable dynamical systems<br>
+Swetamber Das, Jason R. Green<br>
+Accepted
+<br><em>J. Phys. A: Math. Theor.</em><strong>2024</strong>
+</p>
+
+<p><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104">Maximum speed of dissipation</a><br>Swetamber Das, Jason R. Green<br><em>Phys. Rev. E (Letter)</em> <strong>2024</strong> 109(5) L052104<br><a href="https://arxiv.org/abs/2305.12047" target="_blank">arXiv</a></p>
 
 
 <div style="width: 100%; overflow: hidden;">
      <div style="width: 600px; float: left;"> 
-<p class="" style="white-space:pre-wrap;"><a href="https://doi.org/10.1021/acsnano.4c01524"><em>Observing the dynamics of an electrochemically driven active material with liquid electron microscopy</em></a><br>Wyeth S. Gibson, Justin T. Mulvey, Swetamber Das, Serxho Selmani, Jovany G. Merham, Alexander M. Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, Joseph P. Patterson<br><em>ACS Nano</em> <strong>2024</strong> 18(18) p. 11898–11909
+<p class="" style="white-space:pre-wrap;"><a href="https://doi.org/10.1021/acsnano.4c01524">Observing the dynamics of an electrochemically driven active material with liquid electron microscopy</a><br>Wyeth S. Gibson, Justin T. Mulvey, Swetamber Das, Serxho Selmani, Jovany G. Merham, Alexander M. Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, Joseph P. Patterson<br><em>ACS Nano</em> <strong>2024</strong> 18(18) p. 11898–11909
 </p>
 </div>
 <!--<div style="margin-left: 620px;"> 
