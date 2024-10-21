@@ -38,8 +38,8 @@ Under revision
 Schuyler B. Nicholson, Jason R. Green<br>
 Under revision<br>
 <a href="https://arxiv.org/abs/2105.01588" target="_blank">arXiv</a>
-<details>
-<!--<summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
+<!--<details>
+<summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">-->
 </p>
 
