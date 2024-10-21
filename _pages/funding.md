@@ -25,12 +25,14 @@ We appreciate financial support from the National Science Foundation and Departm
 </div>
   </div>
 </div>
+</div>
 
-<div style="clear: both; display: inline-flex">
-  <div style="margin: 10px; float: left; width: 25%; padding-right: 20px">
+<div class="container">
+  <div class="row justify-content-md-center">
+  <div class="col col-lg-2">
     <img src="../assets/img/NSF_Official_logo_High_Res_1200ppi.png" alt="" width="150">
   </div>
-  <div style="margin: 10px; float: left; width: 75%;">
+  <div style="col-md-auto">
     <b>National Science Foundation, Dynamics, Control and Systems Diagnostics
 2021-2024</b>
     <div style="text-align: justify; text-justify: inter-word">
@@ -39,12 +41,14 @@ We appreciate financial support from the National Science Foundation and Departm
 </div>
   </div>
 </div>
+</div>
 
-<div style="clear: both; display: inline-flex">
-  <div style="margin: 15px; float: left; width: 25%; padding-right: 20px">
+<div class="container">
+  <div class="row justify-content-md-center">
+  <div class="col col-lg-2">
     <img src="../assets/img/DOE_Logo_Color-Seal_White-Text_2893x719.png" alt="" width="125">
   </div>
-  <div style="margin: 10px; float: left; width: 75%;">
+  <div style="col-md-auto">
     <b>Department of Energy, Office of Basic Energy Sciences, Biomolecular Materials Program,
 2023-2026</b>
     <div style="text-align: justify; text-justify: inter-word">
@@ -52,4 +56,5 @@ We appreciate financial support from the National Science Foundation and Departm
 "Data-driven learning of dissipation from microscopy of chemically active materials" (Co-PI <a href="https://www.thepattersonlab.com/the-team">Joseph Patterson</a>, University of California Irvine)
 </div>
   </div>
+</div>
 </div>
