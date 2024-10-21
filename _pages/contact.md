@@ -17,6 +17,7 @@ A view of the water from beside the Campus Center.
 
 #### Address
 
+> Integrated Science Complex\
 > University of Massachusetts, Boston\
 > 100 Morrissey Boulevard\
 > Boston, MA 02125
