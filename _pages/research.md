@@ -4,11 +4,19 @@ permalink: /research/
 title: Research
 nav: true
 nav_order: 3
+
+authors:
+  - name: Jason R. Green
+    url: "https://jasonrgreen.net"
+    affiliations:
+      name: UMB
+
 toc:
-  sidebar: left
+  - name: Controlling the dissipative dynamics of chemically-active materials
+  - name: Thermodynamic speed limits on the rates of dissipation
 ---
 
-#### Controlling the dissipative dynamics of chemically-active materials
+## Controlling the dissipative dynamics of chemically-active materials
 
 Several questions motivate our research: How do we design atom- and energy-efficient syntheses of dynamic forms of matter with tailored functionality?
 How do the remarkable properties of living matter emerge from complex correlations of the chemical constituents and their reactions?
@@ -33,7 +41,7 @@ Paul Joshua Hurst, Justin T. Mulvey, Rebecca A. Bone, Serxho Selmani, Redford F.
 
 ---
 
-#### Thermodynamic speed limits on the rates of dissipation
+## Thermodynamic speed limits on the rates of dissipation
 
 We are establishing a theory of thermodynamic speed limits, integrating this theory with machine learning, and beginning to guide material design with techniques that respect, and even leverage, this theory.
 
