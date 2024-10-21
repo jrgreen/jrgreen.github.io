@@ -13,7 +13,7 @@ nav_order: 4
 
 <div style="clear: both; display: inline-flex">
   <div style="margin: 10px; float: left; width: 25%; padding-right: 20px">
-    <img src="assets/images/NSF_Official_logo_High_Res_1200ppi.png" alt="" width="150">
+    <img src="../assets/images/NSF_Official_logo_High_Res_1200ppi.png" alt="" width="150">
   </div>
   <div style="margin: 10px; float: left; width: 75%;">
     <small><b>National Science Foundation, Chemical Theory, Models and Computational Methods
@@ -27,7 +27,7 @@ nav_order: 4
 
 <div style="clear: both; display: inline-flex">
   <div style="margin: 10px; float: left; width: 25%; padding-right: 20px">
-    <img src="assets/images/NSF_Official_logo_High_Res_1200ppi.png" alt="" width="150">
+    <img src="../assets/images/NSF_Official_logo_High_Res_1200ppi.png" alt="" width="150">
   </div>
   <div style="margin: 10px; float: left; width: 75%;">
     <small><b>National Science Foundation, Dynamics, Control and Systems Diagnostics
@@ -41,7 +41,7 @@ nav_order: 4
 
 <div style="clear: both; display: inline-flex">
   <div style="margin: 10px; float: left; width: 25%; padding-right: 20px">
-    <img src="assets/images/DOE_Logo_Color-Seal_White-Text_2893x719.png" alt="" width="125">
+    <img src="../assets/images/DOE_Logo_Color-Seal_White-Text_2893x719.png" alt="" width="125">
   </div>
   <div style="margin: 10px; float: left; width: 75%;">
     <small><b>Department of Energy, Office of Basic Energy Sciences, Biomolecular Materials Program,

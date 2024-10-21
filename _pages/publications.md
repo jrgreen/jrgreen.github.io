@@ -62,7 +62,7 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 </p>
 </div>
      <div style="margin-left: 620px;"> 
-<img src="assets/img/2024_ACSNano_Wyeth.jpeg" width="250">
+<img src="../assets/img/2024_ACSNano_Wyeth.jpeg" width="250">
 </div>
 </div>
 
@@ -93,7 +93,7 @@ Numerous biological and artificial processes exploit multistability and nonstati
 
 </div>
      <div style="margin-left: 620px;"> 
-<img src="assets/img/Lorenz-attractor-speed-limit.png" width="250">
+<img src="../assets/img/Lorenz-attractor-speed-limit.png" width="250">
 </div>
 </div>
 
