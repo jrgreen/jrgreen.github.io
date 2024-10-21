@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: at the <a href='https://www.umb.edu/'>University of Massachusetts Boston</a>
 
