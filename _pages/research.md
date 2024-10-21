@@ -4,6 +4,7 @@ permalink: /research/
 title: Research
 nav: true
 nav_order: 3
+date: 2024-10-20
 
 authors:
   - name: Jason R. Green
