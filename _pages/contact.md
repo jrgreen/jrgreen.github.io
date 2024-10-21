@@ -15,6 +15,12 @@ nav_order: 6
 A view of the water from beside the Campus Center.
 </div>
 
+#### Address
+
+> University of Massachusetts, Boston
+> 100 Morrissey Boulevard
+> Boston, MA 02125
+
 #### Location
 
 We are located on the oceanfront campus of the University of Massachusetts Boston, minutes from downtown. Campus offers many nice views of downtown and the <a href="https://www.bostonharborislands.org/">harbor islands</a>.
