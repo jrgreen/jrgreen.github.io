@@ -24,9 +24,9 @@ To address this challenge, we are develop theory at the intersection of statisti
 Our goal is to guide experiments and produce energy-efficient materials that harness flows of matter and energy to execute dynamical functions on finely tuned timescales.
 </small>
 
-<small>
+<!--<small>
 As an entry point to our work, you might start with our [publications](publications).
-</small>
+</small>-->
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
