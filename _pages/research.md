@@ -6,7 +6,8 @@ nav: true
 nav_order: 5
 ---
 
-#### Controlling the dissipative dynamics of chemically-active materials}\\
+#### Controlling the dissipative dynamics of chemically-active materials
+
 Several questions motivate our research: How do we design atom- and energy-efficient syntheses of dynamic forms of matter with tailored functionality?
 How do the remarkable properties of living matter emerge from complex correlations of the chemical constituents and their reactions?
 Can we control energy and information on the nanoscale to create new materials with a form and function comparable to living systems?
@@ -28,8 +29,10 @@ Paul Joshua Hurst, Justin T. Mulvey, Rebecca A. Bone, Serxho Selmani, Redford F.
 <em>Chemical Science</em> <strong>2024</strong> 15(3), p. 1106-1116
 </p>
 
+---
 
 #### Thermodynamic speed limits on the rates of dissipation
+
 We are establishing a theory of thermodynamic speed limits, integrating this theory with machine learning, and beginning to guide material design with techniques that respect, and even leverage, this theory.
 
 We have proven that the rates of energy and entropy exchange away from equilibrium are subject to a thermodynamic speed limit; there is an upper bound $$\tau^{-1}$$ on the rate at which heat can be dissipated and entropy can be produced. 
@@ -64,3 +67,4 @@ Editor summary: “A time–information uncertainty relation in thermodynamics h
 <p><a href="https://doi.org/10.1103/PhysRevE.98.032106" target="_blank">Nonequilibrium uncertainty principle from information geometry</a><br>Schuyler B. Nicholson, Adolfo del Campo, Jason R. Green<br><em>Phys. Rev. E</em>&nbsp;<strong>2018</strong>&nbsp;98(3) 032106<br><a href="https://arxiv.org/abs/1801.02242" target="_blank">arXiv</a>
 </p>
 
+---
