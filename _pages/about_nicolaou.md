@@ -1,0 +1,4 @@
+<b>Zachary Nicolaou, Postdoctoral Research Associate</b><br>
+<em>Now WRF Postdoctoral Fellow at the University of Washington</em>
+Dr. Zachary G. Nicolaou joined the Green research group as a Postdoctoral Research Associate in September 2020. He defended his thesis on the analysis of partial differential equations governing interfacial fluid dynamics at Caltech in 2016, under the supervision of Dr. Sandra Troian. Following his Ph.D., he studied synchronization and pattern formation phenomena as a Postdoctoral Researcher in the group of Adilson Motter at Northwestern University. His research focuses on the emergence of complex dynamics, such as patterns of synchrony in classical and quantum networks, collective behavior of coupled waves and topological defects, and critical phenomena emerging from symmetries, with an aim to control and design complexity for self-assembly of novel materials and processes. 
+
