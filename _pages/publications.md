@@ -41,7 +41,6 @@ Under revision<br>
 <!--<details>
 <summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">-->
-
 {% details Summary %}
 We show how thermodynamic uncertainty relations and speed limits on nonequilibrium processes derive from linear regression. Using optimal linear models, we show that physical observables give predictions of the equation of motion on statistical manifolds.
 {% enddetails %}
@@ -84,7 +83,6 @@ Mohamed Sahbani, Swetamber Das, Jason R. Green<br><em>Chaos</em> <strong>2023</s
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
 </blockquote>
 </details>-->
-
 {% details Summary %}
 Numerous biological and artificial processes exploit multistability and nonstationarity in networks of chemical reactions to achieve important functions. While thermodynamic driving and autocatalysis are known to give rise to such complex chemical behaviors in specific systems, it is unclear how general these mechanisms are in more generic chemical networks. Synthesizing knowledge from systems chemistry, network theory, and dynamical systems, we characterize general conditions leading to complexity in driven chemical networks. Our results will enable the design of synthetic chemical reactions and may provide insights into the origins of life.
 {% enddetails %}
@@ -114,7 +112,6 @@ Supporting code: <img style='horizontal-align:left; vertical-align:middle; displ
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
 </blockquote>
 </details>-->
-
 {% details Summary %}
 Thermodynamic intuition suggests that fast, irreversible processes will dissipate more energy and entropy than slow, quasistatic processes connecting the same initial and final states. Here, we show that this intuition does not necessarily hold for stochastic processes when there are strong nonequilibrium currents.
 {% enddetails %}
@@ -126,7 +123,6 @@ Thermodynamic intuition suggests that fast, irreversible processes will dissipat
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
 </blockquote>
 </details>-->
-
 {% details Summary %}
 We derive a theory for any classical dynamical system that is analogous to the density matrix formulation of quantum mechanics. Defining states in terms of a classical density matrix leads to generalizations of Liouville's theorem and Liouville's equation, establishing an alternative computationally-tractable foundation for nonequilibrium statistical mechanics.
 {% enddetails %}
@@ -138,7 +134,6 @@ We derive a theory for any classical dynamical system that is analogous to the d
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
 </blockquote>
 </details>-->
-
 {% details Summary %}
 We derive a bound on the speed with which observables of open quantum systems evolve. It divides into Mandelstam and Tamm's original time-energy uncertainty relation and a time-information uncertainty relation recently derived for classical systems, generalizing both to open quantum systems.
 {% enddetails %}
@@ -152,7 +147,6 @@ We derive a bound on the speed with which observables of open quantum systems ev
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
 </blockquote>
 </details>-->
-
 {% details Summary %}
 Editor summary: “A time–information uncertainty relation in thermodynamics has been derived, analogous to the time-energy uncertainty relation in quantum mechanics, imposing limits on the speed of energy and entropy exchange between a system and external reservoirs."
 {% enddetails %}
@@ -173,11 +167,9 @@ Editor summary: “A time–information uncertainty relation in thermodynamics h
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
 </blockquote>
 </details>-->
-
 {% details Editor Summary %}
 "It is well known that fluids become opaque at the liquid-vapor critical point, but a description of the underlying mechanical instability is still missing. Das and Green leverage nonlinear dynamics to quantify the role of chaos in the emergence of this critical phenomenon."
 {% enddetails %}
-
 {% details Summary %}
 In chemistry and physics, it is well known that cooling a fluid to its liquid-vapor critical point will cause a striking transformation called critical opalescence -- at this special set of conditions, the fluid suddenly appears cloudy. The hard-earned explanation for this phenomenon is that as it is cooled, the fluid practices splitting into liquid and gas by forming regions of low and high density. Fluctuations and correlations in these regions grow precipitously to macroscopic length scales and scatter light, making the fluid appear opaque. This statistical description has sufficed for towering advances in statistical physics including universal scaling laws and the powerful theoretical machinery of the renormalization group (for which K. Wilson was awarded the Nobel Prize in 1982). Less understood, however, is what impact this critical phenomenon has on the motion of individual molecules. Missing is a complete understanding of the mechanical instability driving the anomalous statistical features of this singular state. That is, we do not currently have an understanding worthy of Gibbs' name for this program -- statistical mechanics. Using theory and computer simulations, we have shed new light on this problem. We have shown that the degree of chaos in the molecular motion is suppressed as the fluid approaches the critical point and begins to practice splitting into liquid and gas.
 {% enddetails %}
