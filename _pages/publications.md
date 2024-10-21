@@ -41,13 +41,13 @@ Under revision<br>
 <details>
 <!--<summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">-->
+</p>
 
 {% details Summary %}
 We show how thermodynamic uncertainty relations and speed limits on nonequilibrium processes derive from linear regression. Using optimal linear models, we show that physical observables give predictions of the equation of motion on statistical manifolds.
 {% enddetails %}
 <!--</blockquote>
 </details>-->
-</p>
 
 <p>Spectral bounds on the entropy flow rate and Lyapunov exponents in differentiable dynamical systems<br>
 Swetamber Das, Jason R. Green<br>
