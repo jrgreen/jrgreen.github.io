@@ -48,8 +48,8 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 
 <p>Spectral bounds on the entropy flow rate and Lyapunov exponents in differentiable dynamical systems<br>
 Swetamber Das, Jason R. Green<br>
-Accepted
-<br><em>J. Phys. A: Math. Theor.</em><strong>2024</strong>
+Accepted<br>
+<em>J. Phys. A: Math. Theor.</em> <strong>2024</strong>
 </p>
 
 <p><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104">Maximum speed of dissipation</a><br>Swetamber Das, Jason R. Green<br><em>Phys. Rev. E (Letter)</em> <strong>2024</strong> 109(5) L052104<br><a href="https://arxiv.org/abs/2305.12047" target="_blank">arXiv</a></p>
