@@ -7,14 +7,254 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+<style>
+a {
+	color: #3399CC;
+	font-weight: bold;
+}
+</style>
 
-<!-- Bibsearch Feature -->
+<font size="4pt">
+<p>
+List of manuscripts on the
+<a href="https://arxiv.org/a/0000-0003-2572-2838.html">
+arXiv
+</a> or <a href="https://orcid.org/0000-0003-2572-2838">ORCID</a>.
+</p>
 
-{% include bib_search.liquid %}
+<hr>
 
-<div class="publications">
+<p>
+<em>Dissipation rates from experimental uncertainty</em><br>
+Aishani Ghosal, Jason R. Green<br>
+<a href="https://doi.org/10.48550/arXiv.2406.05333" target="_blank">arXiv</a>
+</p>
 
-{% bibliography %}
+<p>
+<em>Spectral bounds on the entropy flow rate and Lyapunov exponents in differentiable dynamical systems</em><br>
+Swetamber Das, Jason R. Green<br>
+Accepted
+<br><em>J. Phys. A: Math. Theor.</em> <em>(Letter) </em><strong>2024</strong>
+</p>
+
+<p><em>Review: Geometric perspective on thermodynamic uncertainty relations and speed limits</em><br>Jason R. Green
+Under revision
+</p>
+
+<p><em>Thermodynamic speed limits from the regression of information</em><br>
+Schuyler B. Nicholson, Jason R. Green<br>
+Under revision<br>
+<a href="https://arxiv.org/abs/2105.01588" target="_blank">arXiv</a>
+<details open>
+<summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
+<blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
+We show how thermodynamic uncertainty relations and speed limits on nonequilibrium processes derive from linear regression. Using optimal linear models, we show that physical observables give predictions of the equation of motion on statistical manifolds.
+</blockquote>
+</details>
+</p>
+
+<p><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104"><em>Maximum speed of dissipation</em></a><br>Swetamber Das, Jason R. Green<br><em>Phys. Rev. E (Letter)</em> <strong>2024</strong> 109(5) L052104<br><a href="https://arxiv.org/abs/2305.12047" target="_blank">arXiv</a></p>
+
+
+<div style="width: 100%; overflow: hidden;">
+     <div style="width: 600px; float: left;"> 
+<p class="" style="white-space:pre-wrap;"><a href="https://doi.org/10.1021/acsnano.4c01524"><em>Observing the dynamics of an electrochemically driven active material with liquid electron microscopy</em></a><br>Wyeth S. Gibson, Justin T. Mulvey, Swetamber Das, Serxho Selmani, Jovany G. Merham, Alexander M. Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, Joseph P. Patterson<br><em>ACS Nano</em> <strong>2024</strong> 18(18) p. 11898–11909
+</p>
+</div>
+     <div style="margin-left: 620px;"> 
+<img src="assets/images/2024_ACSNano_Wyeth.jpeg" width="250">
+</div>
+</div>
+
+<p><a href="https://doi.org/10.1039/D3SC05790A" target="_blank">CryoEM reveals the complex self-assembly of a chemically driven disulfide hydrogel</a><br>
+Paul Joshua Hurst, Justin T. Mulvey, Rebecca A. Bone, Serxho Selmani, Redford F. Hudson, Zhibin Guan, Jason R. Green, Joseph P. Patterson<br>
+<em>Chemical Science</em> <strong>2024</strong> 15(3), p. 1106-1116
+</p>
+
+<p><a href="https://doi.org/10.1063/5.0165484" target="_blank">Classical Fisher information for differentiable dynamical systems</a><br>
+Mohamed Sahbani, Swetamber Das, Jason R. Green<br><em>Chaos</em> <strong>2023</strong> 33(10) p. 103139<br>
+<a href="https://arxiv.org/abs/2307.00026" target="_blank">arXiv</a>
+</p>
+
+<p><a href="https://doi.org/10.1063/5.0142589" target="_blank">Prevalence of multistability and nonstationarity in driven chemical networks<br></a>Zachary G. Nicolaou, Schuyler B. Nicholson, Adilson E. Motter, Jason R. Green<br><em>J. Chem. Phys.</em> <strong>2023</strong> 158(22) p. 225101
+<details open>
+<summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
+<blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
+Numerous biological and artificial processes exploit multistability and nonstationarity in networks of chemical reactions to achieve important functions. While thermodynamic driving and autocatalysis are known to give rise to such complex chemical behaviors in specific systems, it is unclear how general these mechanisms are in more generic chemical networks. Synthesizing knowledge from systems chemistry, network theory, and dynamical systems, we characterize general conditions leading to complexity in driven chemical networks. Our results will enable the design of synthetic chemical reactions and may provide insights into the origins of life.
+</blockquote>
+</details>
+</p>
+
+<p><a href="https://doi.org/10.1515/jnet-2022-0104" target="_blank">Relations between timescales of stochastic thermodynamic observables</a><br>Erez Aghion, Jason R. Green<br><em>J. Non-Equilib. Thermodyn.</em> <strong>2023</strong> 48(4) p. 417-432</p><p class="" style="white-space:pre-wrap;"><a href="https://doi.org/10.1088/1751-8121/acb5d6" target="_blank">Thermodynamic speed limits for mechanical work</a><br>Erez Aghion, Jason R. Green<br><em>J. Phys. A: Math. Theor.</em> <em>(Letter) </em><strong>2023</strong> 56(5) p. 05LT01<strong><br></strong><a href="http://arxiv.org/abs/2204.10368" target="_blank">arXiv</a></p>
+
+<div style="width: 100%; overflow: hidden;">
+     <div style="width: 600px; float: left;"> 
+  <p class="" style="white-space:pre-wrap;"><a href="https://link.aps.org/doi/10.1103/PhysRevResearch.5.L012016" target="_blank">Speed limits on deterministic chaos and dissipation</a><br>Swetamber Das, Jason R. Green<br><em>Phys. Rev. Res. (Letter)</em> <strong>2023</strong> 5(1) p. L012016<strong><br></strong><a href="https://arxiv.org/abs/2110.06993" target="_blank">arXiv</a></p>
 
 </div>
+     <div style="margin-left: 620px;"> 
+<img src="assets/images/Lorenz-attractor-speed-limit.png" width="250">
+</div>
+</div>
+
+<p><a href="https://doi.org/10.1063/5.0125479" target="_blank">Optimizing dynamical functions for speed with stochastic paths</a><br>Rebecca A. Bone, Jason R. Green<br><em>J. Chem. Phys.</em> <strong>2022</strong> 157(22) p. 224101<br>
+<a href="https://zenodo.org/badge/latestdoi/513167718">
+Supporting code: <img style='horizontal-align:left; vertical-align:middle; display:inline;' src="https://zenodo.org/badge/513167718.svg" alt="DOI"></a>
+</p>
+
+<p><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.054151" target="_blank">Stochastic paths controlling speed and dissipation</a><br>Rebecca A. Bone, Daniel J. Sharpe, David J. Wales, Jason R. Green<br><em>Phys. Rev. E</em> <strong>2022</strong> 106(5) p. 054151<strong><br></strong><a href="http://arxiv.org/abs/2109.12202" target="_blank">arXiv</a><br>
+<a href="https://zenodo.org/badge/latestdoi/280687280">Supporting code: <img style='horizontal-align:left; vertical-align:middle; display:inline;' src="https://zenodo.org/badge/280687280.svg" alt="DOI"></a>
+<details open>
+<summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
+<blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
+Thermodynamic intuition suggests that fast, irreversible processes will dissipate more energy and entropy than slow, quasistatic processes connecting the same initial and final states. Here, we show that this intuition does not necessarily hold for stochastic processes when there are strong nonequilibrium currents.
+</blockquote>
+</details>
+</p>
+
+<p><a href="https://doi.org/10.1063/5.0106714" target="_blank">Dynamic scaling of stochastic thermodynamic observables for chemical reactions at and away from equilibrium</a><br>Shrabani Mondal, Jonah S. Greenberg, Jason R. Green<br><em>J. Chem. Phys.</em> <strong>2022 </strong>157(19) p. 194105<strong><br></strong><a href="http://arxiv.org/abs/2101.01613" target="_blank">arXiv</a></p><p class="" style="white-space:pre-wrap;"><a href="https://link.aps.org/doi/10.1103/PhysRevE.106.054135" target="_blank">Density matrix formulation of dynamical systems<br></a>Swetamber Das, Jason R. Green<br><em>Phys. Rev. E</em> <strong>2022</strong> 106(5) p. 054135<strong><br></strong><a href="https://arxiv.org/abs/2106.05911" target="_blank">arXiv</a>
+<details open>
+<summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
+<blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
+We derive a theory for any classical dynamical system that is analogous to the density matrix formulation of quantum mechanics. Defining states in terms of a classical density matrix leads to generalizations of Liouville's theorem and Liouville's equation, establishing an alternative computationally-tractable foundation for nonequilibrium statistical mechanics.
+</blockquote>
+</details>
+</p>
+
+<p class="" style="white-space:pre-wrap;"><a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.011038">Unifying quantum and classical speed limits on observables</a><br>Luis Pedro García-Pintos, Schuyler B. Nicholson, Jason R. Green, Adolfo del Campo, Alexey V. Gorshkov<br><em>Phys. Rev. X</em> <strong>2022</strong> 12(1) p. 011038<br><a href="https://arxiv.org/abs/2108.04261" target="_blank">arXiv</a>
+<details open>
+<summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
+<blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
+We derive a bound on the speed with which observables of open quantum systems evolve. It divides into Mandelstam and Tamm's original time-energy uncertainty relation and a time-information uncertainty relation recently derived for classical systems, generalizing both to open quantum systems.
+</blockquote>
+</details>
+</p>
+
+<p class="" style="white-space:pre-wrap;"><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043059" target="_blank">Non-normality and non-monotonic dynamics in complex reaction networks</a><br>Zachary G. Nicolaou, Takashi Nishikawa, Schuyler B. Nicholson, Jason R. Green, Adilson E. Motter<br><em>Phys. Rev. Res.</em> <strong>2020</strong> 2(4) p. 043059<br><a href="https://arxiv.org/abs/2008.09616">arXiv</a></p>
+
+<p><a href="https://www.nature.com/articles/s41567-020-0981-y" target="_blank">Time-information uncertainty relations in thermodynamics</a><br>Schuyler B. Nicholson, Luis Pedro García-Pintos, Adolfo del Campo, Jason R. Green<br><em>Nat. Phys. </em><strong>2020 </strong>16(12) p. 1211-1215<strong><br></strong><a href="https://arxiv.org/abs/2001.05418" target="_blank">arXiv</a><br>
+<details open>
+<summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
+<blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
+Editor summary: “A time–information uncertainty relation in thermodynamics has been derived, analogous to the time-energy uncertainty relation in quantum mechanics, imposing limits on the speed of energy and entropy exchange between a system and external reservoirs."
+</blockquote>
+</details>
+</p>
+
+<p><a href="https://pubs.acs.org/doi/10.1021/acs.jpca.0c02734">Benchmarking the performance of the ReaxFF reactive force field on hydrogen combustion systems</a><br>Luke W. Bertels, Lucas B. Newcomb, Mohammad Alaghemandi, Jason R. Green, Martin Head-Gordon<br><em>J. Phys. Chem. A</em>&nbsp;<strong>2020</strong> 124(27) p.5631–5645
+</p>
+
+<p class="" style="white-space:pre-wrap;"><a href="https://www.nature.com/articles/s41467-019-10040-3" target="_blank">Critical fluctuations and slowing down of chaos</a><br>Moupriya Das, Jason R. Green<br><em>Nat. Commun.</em>&nbsp;<strong>2019</strong>&nbsp;10(1) p. 2155<br><a href="https://rdcu.be/bBKdb" target="_blank">Full text</a><br><a href="https://arxiv.org/abs/1808.03255" target="_blank">arXiv</a>
+<details open>
+<summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
+<blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
+Editor summary: "It is well known that fluids become opaque at the liquid-vapor critical point, but a description of the underlying mechanical instability is still missing. Das and Green leverage nonlinear dynamics to quantify the role of chaos in the emergence of this critical phenomenon."
+</blockquote>
+</details>
+<!-- It is well known that cooling a fluid to its liquid-vapor critical point will cause a striking transformation -- the fluid will suddenly appear cloudy. But, what happens to the degree of chaos in the molecular motion as the fluid approaches the critical point and begins to practice splitting into liquid and gas? -->
+<details open>
+<summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
+<blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
+In chemistry and physics, it is well known that cooling a fluid to its liquid-vapor critical point will cause a striking transformation called critical opalescence -- at this special set of conditions, the fluid suddenly appears cloudy. The hard-earned explanation for this phenomenon is that as it is cooled, the fluid practices splitting into liquid and gas by forming regions of low and high density. Fluctuations and correlations in these regions grow precipitously to macroscopic length scales and scatter light, making the fluid appear opaque. This statistical description has sufficed for towering advances in statistical physics including universal scaling laws and the powerful theoretical machinery of the renormalization group (for which K. Wilson was awarded the Nobel Prize in 1982). Less understood, however, is what impact this critical phenomenon has on the motion of individual molecules. Missing is a complete understanding of the mechanical instability driving the anomalous statistical features of this singular state. That is, we do not currently have an understanding worthy of Gibbs' name for this program -- statistical mechanics. Using theory and computer simulations, we have shed new light on this problem. We have shown that the degree of chaos in the molecular motion is suppressed as the fluid approaches the critical point and begins to practice splitting into liquid and gas.
+</blockquote>
+</details>
+</p>
+
+<p class="" style="white-space:pre-wrap;"><a href="https://pubs.acs.org/doi/full/10.1021/acs.jpcb.9b02811" target="_blank">Typical stochastic paths in the dissipative assembly of fibrous materials</a><br>Schuyler B. Nicholson, Rebecca A. Bone, Jason R. Green<br><em>J. Phys. Chem. B</em>&nbsp;<strong>2019</strong>&nbsp;123(22) p. 4792-4802<br><strong><em>Invited submission to the "Deciphering Molecular Complexity in Dynamics and Kinetics - From the Single Molecule to the Single Cell Level" </em></strong><a href="https://pubs.acs.org/page/jpcbfk/vsi/molecular-complexity" target="_blank">issue</a>
+</p>
+
+<p><a href="https://doi.org/10.1103/PhysRevE.98.032106" target="_blank">Nonequilibrium uncertainty principle from information geometry</a><br>Schuyler B. Nicholson, Adolfo del Campo, Jason R. Green<br><em>Phys. Rev. E</em>&nbsp;<strong>2018</strong>&nbsp;98(3) 032106<br><a href="https://arxiv.org/abs/1801.02242" target="_blank">arXiv</a>
+</p>
+
+<p>
+<a href="http://pubs.rsc.org/en/content/articlelanding/2018/cp/c8cp00905h#!divAbstract" target="_blank">Explosion limits of hydrogen-oxygen mixtures from nonequilibrium critical points</a><br>Lucas B. Newcomb, Michael E. Marucci, Jason R. Green<br><em>Phys. Chem. Chem. Phys.</em>&nbsp;<strong>2018</strong>&nbsp;20(23) p. 15746-15752<br><strong><em>Selected as a 2018 PCCP HOT Article.</em></strong>
+</p>
+
+<p>
+<a href="https://link.aps.org/doi/10.1103/PhysRevE.97.012146" target="_blank">Entrance and escape dynamics for the typical set</a><br>Schuyler B. Nicholson, Jonah S. Greenberg, and Jason R. Green<br><em>Phys. Rev. E</em>&nbsp;<strong>2018</strong>&nbsp;97(1) 012146&nbsp;
+</p>
+
+<p>
+<a href="http://scitation.aip.org/content/aip/journal/jcp/148/4/10.1063/1.5012760" target="_blank">Effects of temperature and mass conservation on the typical chemical sequences of hydrogen oxidation</a><br>Schuyler B. Nicholson, Mohammad Alaghemandi, Jason R. Green<br><em>J. Chem. Phys.</em>&nbsp;<strong>2018</strong>&nbsp;148(4) p. 044102&nbsp;
+</p>
+
+<p>
+<a href="http://dx.doi.org/10.1039/C7CP04572G" target="_blank">Nonexponential kinetics of ion pair dissociation in electrofreezing water</a><br>Mohammad Alaghemandi, Volkmar Koller, and Jason R. Green<br><em>Phys. Chem. Chem. Phys.</em>&nbsp;<strong>2017</strong>&nbsp;19(38) p. 26396-26402
+</p>
+
+<p>
+<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.115502" target="_blank">Self-averaging fluctuations in the chaoticity of simple fluids</a><br>Moupriya Das, Jason R. Green<br><em>Phys. Rev. Lett.</em>&nbsp;<strong>2017</strong>&nbsp;119(11), p. 115502<br>
+<a href="http://arxiv.org/abs/1705.10901" target="_blank">arXiv</a><br><strong><em>Featured on </em></strong><a href="http://physicsbuzz.physicscentral.com/2017/10/quantifying-chaos-to-understand-liquids.html" target="_blank"><strong><em>Physics Buzz</em></strong></a><br>
+</p>
+
+<p>
+<a href="http://aip.scitation.org/doi/full/10.1063/1.4994265" target="_blank">Nonequilibrium phase coexistence and criticality near the second explosion limit of hydrogen combustion</a><br>Lucas B. Newcomb, Mohammad Alaghemandi, Jason R. Green<br><em>J. Chem. Phys.</em>&nbsp;<strong>2017</strong>&nbsp;147(3), p. 034108
+</p>
+
+<p>
+<a href="http://pubs.acs.org/doi/abs/10.1021/acs.jpca.7b00249" target="_blank">Ignition in an atomistic model of hydrogen oxidation</a><br>Mohammad Alaghemandi, Lucas B. Newcomb, Jason R. Green<br><em>J. Phys. Chem. A</em>&nbsp;<strong>2017</strong>&nbsp;121(8) p. 1686-1692
+</p>
+
+<p>
+<a href="http://link.aps.org/doi/10.1103/PhysRevE.95.022102" target="_blank">Extensivity and additivity of the Kolmogorov-Sinai entropy for simple fluids</a><br>Moupriya Das, Anthony B. Costa, Jason R. Green<br><em>Phys. Rev. E</em>&nbsp;<strong>2017</strong>&nbsp;95(2) p. 022102
+</p>
+
+<p>
+<a href="http://scitation.aip.org/content/aip/journal/jcp/145/8/10.1063/1.4961485" target="_blank">Learning the mechanisms of chemical disequilibria</a><br>Schuyler B. Nicholson, Mohammad Alaghemandi, Jason R. Green<br><em>J. Chem. Phys.</em>&nbsp;<strong>2016</strong>&nbsp;145(8) p. 084112
+</p>
+
+<p>
+<a href="http://pubs.rsc.org/en/content/articlelanding/2015/cp/c5cp05125h#!divAbstract" target="_blank">Reactive symbol sequences for a model of hydrogen combustion</a><br>Mohammad Alaghemandi, Jason R. Green<br><em>Phys. Chem. Chem. Phys.</em>&nbsp;<strong>2016</strong>&nbsp;18(4), p. 2810-2817
+</p>
+
+<p>
+<a href="http://scitation.aip.org/content/aip/journal/jcp/142/6/10.1063/1.4907629" target="_blank">Order and disorder in irreversible decay processes</a><br>Jonathan W. Nichols, Shane W. Flynn, Jason R. Green<br><em>J. Chem. Phys.</em>&nbsp;<strong>2015</strong>&nbsp;142(6) p. 064113<br>
+<a href="http://arxiv.org/abs/1502.02697" target="_blank">arXiv</a>
+</p>
+
+<p>
+<a href="http://scitation.aip.org/content/aip/journal/jcp/141/10/10.1063/1.4895514" target="_blank">Measuring disorder in irreversible decay processes</a><br>Shane W. Flynn, Helen C. Zhao, Jason R. Green<br><em>J. Chem. Phys.</em>&nbsp;<strong>2014</strong>&nbsp;141(10) p. 104107<br>
+<a href="http://arxiv.org/abs/1409.2566" target="_blank">arXiv</a>
+</p>
+
+<p>
+<a href="http://www.pnas.org/content/110/41/16339.abstract" target="_blank">A relationship between dynamical entropy and energy dissipation far from thermodynamic equilibrium</a><br>Jason R. Green, Anthony B. Costa, Bartosz A. Grzybowski, Igal Szleifer<br><em>Proc. Natl. Acad. Sci. USA</em>&nbsp;<strong>2013</strong>&nbsp;110(41) p. 16339-16343
+</p>
+
+<p>
+<a href="http://dx.doi.org/10.1016/j.jcp.2013.03.051" target="_blank">Extending the length and time scales of Gram-Schmidt Lyapunov vector computations</a><br>Anthony B. Costa, Jason R. Green<br><em>J. Comp. Phys.</em>&nbsp;<strong>2013</strong>&nbsp;246 p. 113-122
+</p>
+
+<p>
+<a href="http://dx.doi.org/10.1080/00268976.2012.684894" target="_blank">Chaotic dynamics near steep transition states</a><br>Jason R. Green, Thomas S. Hofer, David J. Wales, R. Stephen Berry<br><em>Mol. Phys.</em>&nbsp;<strong>2012</strong>&nbsp;10(15-16) p. 1839-1848
+</p>
+
+<p>
+<a href="http://link.aip.org/link/doi/10.1063/1.3658642" target="_blank">Characterizing molecular motion in H2O and H3O+ with dynamical instability statistics</a><br>Jason R. Green, Thomas S. Hofer, R. Stephen Berry, David J. Wales<br><em>J. Chem. Phys.</em>&nbsp;<strong>2011</strong>&nbsp;135(18) p. 184307
+</p>
+
+<p>
+<a href="http://pubs.acs.org/doi/abs/10.1021/jp111843r" target="_blank">When do molecular bowls encapsulate metal cations?</a><br>Jason R. Green, Robert C. Dunbar<br><em>J. Phys. Chem. A</em>&nbsp;<strong>2011</strong>&nbsp;115(19) p. 4968-4975
+</p>
+
+<p>
+<a href="http://link.aps.org/doi/10.1103/PhysRevE.80.066205" target="_blank">Space-time properties of Gram-Schmidt vectors in classical Hamiltonian evolution</a><br>Jason R. Green, Julius Jellinek, R. Stephen Berry<br><em>Phys. Rev. E</em>&nbsp;<strong>2009</strong>&nbsp;80(6) p. 066205
+</p>
+
+<p>
+<a href="http://pubs.rsc.org/en/Content/ArticleLanding/2005/CP/b418056a" target="_blank">Ion/surface reactions and ion soft-landing</a><br>Bogdan Gologan, Jason R. Green, Jormarie Alvarez, Julia Laskin, R. Graham Cooks<br><em>Phys. Chem. Chem. Phys.</em>&nbsp;<strong>2005</strong>&nbsp;7 p. 1490-1500
+</p>
+
+<p>
+<a href="http://pubs.acs.org/doi/abs/10.1021/jp046228g" target="_blank">Inverse heavy-atom kinetic isotope effects in chloroalkanes</a><br>Jason R. Green, R. Graham Cooks<br><em>J. Phys. Chem. A</em>&nbsp;<strong>2004</strong>&nbsp;108(46) p. 10039-10043
+</p>
+
+<p>
+<a href="http://pubs.acs.org/doi/abs/10.1021/jp058296o" target="_blank">References</a><br>Jason R. Green, R. Graham Cooks<br><em>J. Phys. Chem. A</em>&nbsp;<strong>2005</strong>&nbsp;109(49) p. 11338
+</p>
+
+<p>
+<a href="http://dx.doi.org/10.1016/j.apsusc.2004.03.017" target="_blank">Collisions of organic ions at surfaces</a><br>R. Graham Cooks, Sung-Chan Jo, Jason R. Green<br><em>Appl. Surf. Sci.</em>&nbsp;<strong>2004</strong>&nbsp;231-232 p. 13-21
+</p>
+
+</font>
