@@ -4,9 +4,9 @@ title: About
 permalink: /
 subtitle: at the <a href='https://www.umb.edu/'>University of Massachusetts Boston</a>
 
-#profile:
-#  align: right
-#  image: wave.png
+profile:
+  align: right
+  image: White-UMB-logo-lockup.png
 #  image_circular: false # crops the image to make it circular
 #  more_info: >
 #    <p>555 your office number</p>
