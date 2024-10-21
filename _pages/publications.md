@@ -230,7 +230,7 @@ In chemistry and physics, it is well known that cooling a fluid to its liquid-va
 </p>
 
 <p>
-<a href="http://link.aip.org/link/doi/10.1063/1.3658642" target="_blank">Characterizing molecular motion in H2O and H3O+ with dynamical instability statistics</a><br>Jason R. Green, Thomas S. Hofer, R. Stephen Berry, David J. Wales<br><em>J. Chem. Phys.</em>&nbsp;<strong>2011</strong>&nbsp;135(18) p. 184307
+<a href="https://doi.org/10.1063/1.3658642" target="_blank">Characterizing molecular motion in H2O and H3O+ with dynamical instability statistics</a><br>Jason R. Green, Thomas S. Hofer, R. Stephen Berry, David J. Wales<br><em>J. Chem. Phys.</em>&nbsp;<strong>2011</strong>&nbsp;135(18) p. 184307
 </p>
 
 <p>
