@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: Members of the group
+title: Group
+description: 
 nav: true
 nav_order: 7
 
@@ -20,6 +20,12 @@ profiles:
   - align: left
     image: swetamber-das-circle.png
     content: about_das.md
+    image_circular: false # crops the image to make it circular
+    more_info: #>
+      #<p>ISC 3610</p>
+  - align: left
+    image: aishani-ghosal-circle.png
+    content: about_ghosal.md
     image_circular: false # crops the image to make it circular
     more_info: #>
       #<p>ISC 3610</p>
