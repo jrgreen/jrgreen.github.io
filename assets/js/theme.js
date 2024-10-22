@@ -221,7 +221,9 @@ let determineComputedTheme = () => {
   let themeSetting = determineThemeSetting();
   if (themeSetting == "system") {
     const userPref = window.matchMedia;
-    if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
+	//JRG
+    //if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
+	if (userPref && (userPref('(prefers-color-scheme: dark)').matches || userPref('(max-width: 768px)').matches)) {
       return "dark";
     } else {
       return "light";
