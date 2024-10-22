@@ -6,9 +6,6 @@ nav: true
 nav_order: 4
 ---
 
-
-#### Current funding
-
 We appreciate financial support from the National Science Foundation and Department of Energy.
 
   <div class="row justify-content-sm-center">
