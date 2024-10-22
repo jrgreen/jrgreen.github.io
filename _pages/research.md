@@ -23,6 +23,15 @@ Several questions motivate our research: How do we design atom- and energy-effic
 How do the remarkable properties of living matter emerge from complex correlations of the chemical constituents and their reactions?
 Can we control energy and information on the nanoscale to create new materials with a form and function comparable to living systems?
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/wave-rectangle.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+LPTEM image from Gibson et al.
+</div>
+
 We have made several advances to develop the theory needed to design materials out of equilibrium  and we are working to drive this theory with experimental data.
 
 <div style="width: 100%; overflow: hidden;">
