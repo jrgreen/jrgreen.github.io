@@ -15,18 +15,16 @@ nav_order: 6
 A view of the water from beside the Campus Center.
 </div>
 
-#### Address
-
-> Integrated Science Complex\
-> University of Massachusetts, Boston\
-> 100 Morrissey Boulevard\
-> Boston, MA 02125
-
 #### Location
 
 We are located on the oceanfront campus of the University of Massachusetts Boston, minutes from downtown. Campus offers many nice views of downtown and the <a href="https://www.bostonharborislands.org/">harbor islands</a>.
 
 The group is housed in the <a href="https://www.umb.edu/campus-planning/projects/integrated-sciences-complex/">Integrated Science Complex</a>, just off the <a href="https://www.umb.edu/campus-planning/projects/harborwalk/">Harborwalk</a>.
+
+> Integrated Science Complex\
+> University of Massachusetts, Boston\
+> 100 Morrissey Boulevard\
+> Boston, MA 02125
 
 #### Getting here
 
