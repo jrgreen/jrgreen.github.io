@@ -21,13 +21,11 @@ To be added to our mailing list, please sign up here.
 - The group is housed in the <a href="https://www.umb.edu/campus-planning/projects/integrated-sciences-complex/">Integrated Science Complex</a>, just off the <a href="https://www.umb.edu/campus-planning/projects/harborwalk/">Harborwalk</a>.
 
 - Take a virtual tour? UMB was featured in "The College Tour":
-<div class="container-fluid">
-<!--    <div class="col-sm mt-3 mt-md-0">-->
-        {% include video.liquid path="https://player.vimeo.com/video/917376810?autoplay=1" class="img-fluid rounded z-depth-1" %}
-<!--    </div>-->
-</div>
+<div class="container>
+{% include video.liquid path="https://player.vimeo.com/video/917376810?autoplay=1" class="img-fluid rounded z-depth-1" %}
 <div class="caption">
     UMB episode of <a href="https://www.thecollegetour.com/">The College Tour</a>.
+</div>
 </div>
 
 **We currently have an opening for a Ph.D. student.**
