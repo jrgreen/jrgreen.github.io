@@ -22,9 +22,9 @@ To be added to our mailing list, please sign up here.
 
 - Take a virtual tour? UMB was featured in "The College Tour":
 <div class="container-fluid">
-    <div class="col-sm mt-3 mt-md-0">
+<!--    <div class="col-sm mt-3 mt-md-0">-->
         {% include video.liquid path="https://player.vimeo.com/video/917376810?autoplay=1" class="img-fluid rounded z-depth-1" %}
-    </div>
+<!--    </div>-->
 </div>
 <div class="caption">
     UMB episode of <a href="https://www.thecollegetour.com/">The College Tour</a>.
