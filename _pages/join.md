@@ -23,10 +23,10 @@ To be added to our mailing list, please sign up here.
 - Take a virtual tour? UMB was featured in "The College Tour":
 <div class="container>
 {% include video.liquid path="https://player.vimeo.com/video/917376810?autoplay=1" class="img-fluid rounded z-depth-1" %}
-<div class="caption">
+</div>
+<!--<div class="caption">
     UMB episode of <a href="https://www.thecollegetour.com/">The College Tour</a>.
-</div>
-</div>
+</div>-->
 
 **We currently have an opening for a Ph.D. student.**
 
