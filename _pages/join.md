@@ -12,19 +12,20 @@ To be added to our mailing list, please sign up here.
 
 ### Why join the group?
 
-- Three undergraduates in the group have published papers and gone on to the highest-ranking graduate schools and industry.
+- Three undergraduates in the group have published papers and gone on to the highest-ranking graduate schools (Caltech, Northwestern, University of California Irvine) and industry.
 
 - Four group members are now faculty at other universities.
 
-- We are located on the oceanfront campus of the University of Massachusetts Boston, minutes from downtown. Campus offers many nice views of downtown and the <a href="https://www.bostonharborislands.org/">harbor islands</a>.
+- UMB is on the oceanfront campus, minutes from downtown Boston. Campus offers many nice views of downtown and the <a href="https://www.bostonharborislands.org/">harbor islands</a>.
 
 - The group is housed in the <a href="https://www.umb.edu/campus-planning/projects/integrated-sciences-complex/">Integrated Science Complex</a>, just off the <a href="https://www.umb.edu/campus-planning/projects/harborwalk/">Harborwalk</a>.
 
 - Take a virtual tour? UMB was featured in "The Campus Tour":
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://player.vimeo.com/video/917376810?autoplay=1" class="img-fluid rounded z-depth-1" %}
     </div>
-
+</div>
 
 **We currently have an opening for a Ph.D. student.**
 
