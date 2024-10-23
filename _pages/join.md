@@ -6,6 +6,8 @@ nav: true
 nav_order: 7
 ---
 
+**We currently have an opening for a Ph.D. student.**
+
 If you would like information about the Department of Chemistry or Physics, please email either Professor Green directly. 
 
 To be added to our mailing list, please sign up here.
@@ -25,8 +27,6 @@ To be added to our mailing list, please sign up here.
 <!--<div class="caption">
     UMB episode of <a href="https://www.thecollegetour.com/">The College Tour</a>.
 </div>-->
-
-**We currently have an opening for a Ph.D. student.**
 
 ### Graduate Research Openings
 
