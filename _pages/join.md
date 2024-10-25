@@ -12,11 +12,11 @@ If you would like information about the Department of Chemistry or Physics, plea
 
 To be added to our mailing list, please sign up here.
 
-### Why join the group?
+### Group highlights
 
-- Three undergraduates in the group have published papers and gone on to the highest-ranking graduate schools (Caltech, Northwestern, University of California Irvine) and industry.
+- Three undergraduates in the group have published papers with us and subsequently gone on to high-ranking graduate schools (Caltech, Northwestern, University of California Irvine) and industry.
 
-- Four group members are now faculty at other universities.
+- Four group members are now faculty members at other universities.
 
 - UMB is on the oceanfront campus, minutes from downtown Boston. Campus offers many nice views of downtown and the <a href="https://www.bostonharborislands.org/">harbor islands</a>.
 
