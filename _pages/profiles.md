@@ -18,6 +18,12 @@ profiles:
       #<p>100 Morrissey Boulevard</p>
       #<p>Boston, MA 02125</p>
   - align: left
+    image: shiqi-chen-circle.png
+    content: about_chen.md
+    image_circular: false # crops the image to make it circular
+    more_info: #>
+      #<p>ISC 3610</p>
+  - align: left
     image: swetamber-das-circle.png
     content: about_das.md
     image_circular: false # crops the image to make it circular
