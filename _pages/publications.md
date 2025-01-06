@@ -50,7 +50,6 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 
 <p><a href="https://doi.org/10.1088/1751-8121/ad8f06">Spectral bounds on the entropy flow rate and Lyapunov exponents in differentiable dynamical systems</a><br>
 Swetamber Das, Jason R. Green<br>
-Accepted<br>
 <em>J. Phys. A: Math. Theor.</em> <strong>2025</strong> 58(3) 035003
 </p>
 
