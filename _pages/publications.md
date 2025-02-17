@@ -19,20 +19,14 @@ a {
 List of manuscripts on the
 <a href="https://arxiv.org/a/0000-0003-2572-2838.html">
 arXiv
-</a> or <a href="https://orcid.org/0000-0003-2572-2838">ORCID</a>.
+</a> and published articles on <a href="https://orcid.org/0000-0003-2572-2838">ORCID</a>.
 </p>
 
 <hr>
 
 <p>Phase space contraction rate for classical mixed states<br>
-Mohamed Sahbani, Swetamber Das, Jason R. Green<br> <strong>2025</strong> Submitted<br>
-</p>
-
-<p>
-<em>Dissipation rates from experimental uncertainty</em><br>
-Aishani Ghosal, Jason R. Green<br>
-<em>Phys. Rev. Res. (Letter)</em> <strong>2025</strong> In press<br>
-<a href="https://doi.org/10.48550/arXiv.2406.05333" target="_blank">arXiv</a>
+Mohamed Sahbani, Swetamber Das, Jason R. Green<br> <strong>2025</strong> Submitted<br><br>
+<a href="http://arxiv.org/abs/2502.09361" target="_blank">arXiv</a>
 </p>
 
 <p><em>Review: Geometric perspective on thermodynamic uncertainty relations and speed limits</em><br>Jason R. Green
@@ -51,6 +45,13 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 {% enddetails %}
 <!--</blockquote>
 </details>-->
+</p>
+
+<p>
+<em>Dissipation rates from experimental uncertainty</em><br>
+Aishani Ghosal, Jason R. Green<br>
+<em>Phys. Rev. Res. (Letter)</em> <strong>2025</strong> In press<br>
+<a href="https://doi.org/10.48550/arXiv.2406.05333" target="_blank">arXiv</a>
 </p>
 
 <p><a href="https://doi.org/10.1088/1751-8121/ad8f06">Spectral bounds on the entropy flow rate and Lyapunov exponents in differentiable dynamical systems</a><br>
