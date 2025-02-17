@@ -25,7 +25,7 @@ arXiv
 <hr>
 
 <p>Phase space contraction rate for classical mixed states<br>
-Mohamed Sahbani, Swetamber Das, Jason R. Green<br> <strong>2025</strong> Submitted<br><br>
+Mohamed Sahbani, Swetamber Das, Jason R. Green<br> <strong>2025</strong> Submitted<br>
 <a href="http://arxiv.org/abs/2502.09361" target="_blank">arXiv</a>
 </p>
 
