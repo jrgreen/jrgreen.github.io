@@ -29,6 +29,10 @@ Mohamed Sahbani, Swetamber Das, Jason R. Green<br> <strong>2025</strong> Submitt
 <a href="http://arxiv.org/abs/2502.09361" target="_blank">arXiv</a>
 </p>
 
+<p>Avoiding the Kauzmann paradox via interface-driven divergence in states<br>
+Andrew Martin, Jason R. Green, Martin Thuo<br> <strong>2025</strong> Submitted<br>
+</p>
+
 <p><em>Review: Geometric perspective on thermodynamic uncertainty relations and speed limits</em><br>Jason R. Green
 Under revision
 </p>
