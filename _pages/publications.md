@@ -25,12 +25,8 @@ arXiv
 <hr>
 
 <p>Phase space contraction rate for classical mixed states<br>
-Mohamed Sahbani, Swetamber Das, Jason R. Green<br> <strong>2025</strong> Submitted<br>
+Mohamed Sahbani, Swetamber Das, Jason R. Green<br> <strong>2025</strong> Under revision<br>
 <a href="http://arxiv.org/abs/2502.09361" target="_blank">arXiv</a>
-</p>
-
-<p>Avoiding the Kauzmann paradox via interface-driven divergence in states<br>
-Andrew Martin, Jason R. Green, Martin Thuo<br> <strong>2025</strong> Submitted<br>
 </p>
 
 <p><em>Review: Geometric perspective on thermodynamic uncertainty relations and speed limits</em><br>Jason R. Green
@@ -51,11 +47,18 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 </details>-->
 </p>
 
-<p>
-<em>Dissipation rates from experimental uncertainty</em><br>
+<p><a href="https://doi.org/10.1002/anie.202502197">Avoiding the Kauzmann paradox via interface-driven divergence in states</a><br>
+Andrew Martin, Jason R. Green, Martin M. Thuo<br>
+<em>Angew. Chem. Int. Ed.</em> <strong>2025</strong> In press<br>
+</p>
+
+<p><a href="https://doi.org/10.1103/PhysRevResearch.7.L012078">Dissipation rates from experimental uncertainty</a><br>
 Aishani Ghosal, Jason R. Green<br>
-<em>Phys. Rev. Res. (Letter)</em> <strong>2025</strong> In press<br>
+<em>Phys. Rev. Res. (Letter)</em> <strong>2025</strong> 7(1) L012078<br>
 <a href="https://doi.org/10.48550/arXiv.2406.05333" target="_blank">arXiv</a>
+{% details Summary %}
+Reparameterizing the speed limit set by the Fisher information, we show how to infer dissipation rates from directly observable quantities without an analytically solvable model or full time-dependent probability distribution.
+{% enddetails %}
 </p>
 
 <p><a href="https://doi.org/10.1088/1751-8121/ad8f06">Spectral bounds on the entropy flow rate and Lyapunov exponents in differentiable dynamical systems</a><br>
