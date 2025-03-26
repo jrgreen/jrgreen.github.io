@@ -49,7 +49,7 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 
 <p><a href="https://doi.org/10.1002/anie.202502197">Avoiding the Kauzmann paradox via interface-driven divergence in states</a><br>
 Andrew Martin, Jason R. Green, Martin M. Thuo<br>
-<em>Angew. Chem. Int. Ed.</em> <strong>2025</strong> In press<br>
+<em>Angew. Chem. Int. Ed.</em> <strong>2025</strong> e202502197<br>
 </p>
 
 <p><a href="https://doi.org/10.1103/PhysRevResearch.7.L012078">Dissipation rates from experimental uncertainty</a><br>
