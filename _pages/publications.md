@@ -24,11 +24,6 @@ arXiv
 
 <hr>
 
-<p>Phase space contraction rate for classical mixed states<br>
-Mohamed Sahbani, Swetamber Das, Jason R. Green<br> <strong>2025</strong> Under revision<br>
-<a href="http://arxiv.org/abs/2502.09361" target="_blank">arXiv</a>
-</p>
-
 <p><em>Review: Geometric perspective on thermodynamic uncertainty relations and speed limits</em><br>Jason R. Green
 Under revision
 </p>
@@ -45,6 +40,11 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 {% enddetails %}
 <!--</blockquote>
 </details>-->
+</p>
+
+<p>Phase space contraction rate for classical mixed states<br>
+Mohamed Sahbani, Swetamber Das, Jason R. Green<br> <strong>2025</strong> Accepted<br>
+<a href="http://arxiv.org/abs/2502.09361" target="_blank">arXiv</a>
 </p>
 
 <p><a href="https://doi.org/10.1002/anie.202502197">Avoiding the Kauzmann paradox via interface-driven divergence in states</a><br>
