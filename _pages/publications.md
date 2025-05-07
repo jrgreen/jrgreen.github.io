@@ -50,6 +50,9 @@ Mohamed Sahbani, Swetamber Das, Jason R. Green<br> <strong>2025</strong> Accepte
 <p><a href="https://doi.org/10.1002/anie.202509577">Avoiding the Kauzmann paradox via interface-driven divergence in states</a><br>
 Andrew Martin, Jason R. Green, Martin M. Thuo<br>
 <em>Angew. Chem. Int. Ed.</em> <strong>2025</strong> e202502197<br>
+{% details Summary %}
+Complexity in surfaces due to compositional self-organization generates a thermodynamic stress tensor that stretches the phase landscape, realizing previously inaccessible relaxation pathways. This surface driven control over thermodynamic speed limit and momentum creates a potential resolution for the Kauzmann paradox through divergence in entropy. More information can be found in the Research article by Martin Thuo, Andrew Martin, and Jason R. Green (e202502197).
+{% enddetails %}
 </p>
 
 <p><a href="https://doi.org/10.1103/PhysRevResearch.7.L012078">Dissipation rates from experimental uncertainty</a><br>
