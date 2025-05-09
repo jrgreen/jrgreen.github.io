@@ -24,9 +24,9 @@ arXiv
 
 <hr>
 
-<p><em>Review: Geometric perspective on thermodynamic uncertainty relations and speed limits</em><br>Jason R. Green
+<!--<p><em>Review: Geometric perspective on thermodynamic uncertainty relations and speed limits</em><br>Jason R. Green
 Under revision
-</p>
+</p>-->
 
 <p><em>Thermodynamic speed limits from the regression of information</em><br>
 Schuyler B. Nicholson, Jason R. Green<br>
