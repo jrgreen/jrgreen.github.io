@@ -42,7 +42,7 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 </details>-->
 </p>
 
-<p><a href="https://journals.aps.org/pre/accepted/2a07aRd8Oa413921248217d30aec1de3eb6fbd17f">Phase space contraction rate for classical mixed states</a><br>
+<p><a href="https://doi.org/10.1103/PhysRevE.111.054130">Phase space contraction rate for classical mixed states</a><br>
 Mohamed Sahbani, Swetamber Das, Jason R. Green<br> <em>Phys. Rev. E</em> <strong>2025</strong> In press<br>
 <a href="http://arxiv.org/abs/2502.09361" target="_blank">arXiv</a>
 </p>
