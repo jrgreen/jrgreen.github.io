@@ -49,12 +49,6 @@ profiles:
       #<p>ISC 3610</p>
   - align: left
     image: blank.png
-    content: about_lucas.md
-    image_circular: false # crops the image to make it circular
-    more_info: #>
-      #<p>ISC 3610</p>
-  - align: left
-    image: blank.png
     content: about_moghassemi.md
     image_circular: false # crops the image to make it circular
     more_info: #>
