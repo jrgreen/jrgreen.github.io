@@ -42,6 +42,11 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 </details>-->
 </p>
 
+<p><em>Transiently amplified fluctuations assemble dissipative materials</em><br>
+Tae Hyun Ueon, Joseph P. Patterson, Jason R. Green<br>
+Submitted<br>
+</p>
+
 <p><a href="https://doi.org/10.1103/PhysRevE.111.054130">Phase space contraction rate for classical mixed states</a><br>
 Mohamed Sahbani, Swetamber Das, Jason R. Green<br> <em>Phys. Rev. E</em> <strong>2025</strong> 111(5) 054130<br>
 <a href="http://arxiv.org/abs/2502.09361" target="_blank">arXiv</a>
