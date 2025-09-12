@@ -42,6 +42,11 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 </details>-->
 </p>
 
+<p><em>Violation of thermodynamic speed limits as a criterion for physical model selection</em><br>
+Shiqi Chen, Jason R. Green<br>
+Submitted<br>
+</p>
+
 <p><em>Transiently amplified fluctuations assemble dissipative materials</em><br>
 Tae Hyun Ueon, Joseph P. Patterson, Jason R. Green<br>
 Submitted<br>
