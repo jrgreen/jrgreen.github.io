@@ -28,6 +28,11 @@ arXiv
 Under revision
 </p>-->
 
+<p><em>Reciprocity-breaking via nanoscale surface asymmetries stabilizes metastable phases in metal particles</em><br>
+Andrew Martin, Jason R. Green, Martin M. Thuo<br>
+Submitted<br>
+</p>
+
 <p><em>Thermodynamic speed limits from the regression of information</em><br>
 Schuyler B. Nicholson, Jason R. Green<br>
 Under revision<br>
