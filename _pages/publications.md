@@ -30,13 +30,13 @@ Under revision
 
 <p><em>Phase space volume preserving dynamics for non-Hamiltonian systems</em><br>
 Swetamber Das, Jason R. Green<br> 
-Under review<br>
+Under revision<br>
 <a href="http://arxiv.org/abs/2511.04960" target="_blank">arXiv</a>
 </p>
 
 <p><em>Reciprocity-breaking via nanoscale surface asymmetries stabilizes metastable phases in metal particles</em><br>
 Andrew Martin, Jason R. Green, Martin M. Thuo<br>
-Under review<br>
+Under revision<br>
 </p>
 
 <p><em>Thermodynamic speed limits from the regression of information</em><br>
@@ -55,12 +55,13 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 
 <p><em>Violation of thermodynamic speed limits as a criterion for physical model selection</em><br>
 Shiqi Chen, Jason R. Green<br>
-Under revision<br>
+Submitted<br>
 </p>
 
 <p><em>Transiently amplified fluctuations assemble dissipative materials</em><br>
 Tae Hyun Ueon, Joseph P. Patterson, Jason R. Green<br>
-Under revision<br>
+<em>Proc. Natl. Acad. Sci. USA</em>&nbsp;<strong>2026</strong><br>
+Accepted
 </p>
 
 <p><a href="https://doi.org/10.1103/PhysRevE.111.054130">Phase space contraction rate for classical mixed states</a><br>
