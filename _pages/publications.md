@@ -61,7 +61,7 @@ Submitted<br>
 <p><em>Transiently amplified fluctuations assemble dissipative materials</em><br>
 Tae Hyun Ueon, Joseph P. Patterson, Jason R. Green<br>
 <em>Proc. Natl. Acad. Sci. USA</em>&nbsp;<strong>2026</strong><br>
-Accepted
+In press
 </p>
 
 <p><a href="https://doi.org/10.1103/PhysRevE.111.054130">Phase space contraction rate for classical mixed states</a><br>
