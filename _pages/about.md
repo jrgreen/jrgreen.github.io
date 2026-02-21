@@ -19,11 +19,17 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-Our research uses theory, computation, and data to understand systems that perform useful dynamical functions.
-These functions include the assembly and replication of multiscale structures, the capture and conversion of energy, the regulation of chemical reaction networks for keeping time, and the generation of power.
-We are particularly interested in transforming chemical energy at the molecular scale into the dynamical functionality of synthetic and biological materials. 
-To address the challenges of this problem, we are developing theory at the intersection of statistical mechanics, nonlinear dynamics, and data science.
-Our goal is to guide experiments and produce energy-efficient materials that harness flows of matter and energy to execute dynamical functions on finely tuned timescales.
+While we can synthesize a vast number of molecular structures at small scales, it is difficult to quantitatively control the nonequilibrium processes required to build functional supramolecular systems at
+nanometer and micron scales. 
+However, living systems show that flows of matter and energy can organize multiscale materials, drive motion, regulate reaction networks, and replicate structure.
+Our research aims to understand and design synthetic systems that convert chemical energy into controlled, energy-efficient dynamical behaviors. 
+The problems in this direction have an overarching question: how do nonequilibrium flows of matter and energy set the limits and design rules for dynamical function?
+
+To address this question, we develop theory and computational techniques for synthetic and biological materials---such as self-assembling structures and active materials---that use reaction and transport processes to
+assemble, sustain, and reorganize structure or generate work on targeted timescales. 
+We build coarse-grained models grounded in statistical mechanics, nonlinear dynamics, stochastic thermodynamics, and data-driven inference that quantify tradeoffs between speed, accuracy, stability, and energy use and infer mechanisms from experimental data. 
+Our goal is to deliver predictive frameworks that guide experiments and enable the rational design of energy-
+efficient synthetic and biological materials.
 
 <!--<small>
 As an entry point to our work, you might start with our [publications](publications).
