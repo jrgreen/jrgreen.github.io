@@ -28,7 +28,7 @@ arXiv
 Under revision
 </p>-->
 
-<p><em>Phase space volume preserving dynamics for non-Hamiltonian systems</em><br>
+<p><em>Phase space volume preserving dynamics for deterministic dynamical systems</em><br>
 Swetamber Das, Jason R. Green<br> 
 Under revision<br>
 <a href="http://arxiv.org/abs/2511.04960" target="_blank">arXiv</a>
