@@ -63,10 +63,13 @@ Shiqi Chen, Jason R. Green<br>
 Submitted<br>
 </p>
 
-<p><em>Transiently amplified fluctuations assemble dissipative materials</em><br>
+<p><a href="https://doi.org/10.1073/pnas.2531136123">Transiently amplified fluctuations assemble dissipative materials</a><br>
 Tae Hyun Ueon, Joseph P. Patterson, Jason R. Green<br>
-<em>Proc. Natl. Acad. Sci. USA</em>&nbsp;<strong>2026</strong><br>
-In press
+<em>Proc. Natl. Acad. Sci. USA</em>&nbsp;<strong>2026</strong> 123 (12) e2531136123
+<br>
+{% details Summary %}
+Materials that assemble through chemical reactions are often designed with the expectation that fluctuations and inhomogeneities will relax toward a steady state, reflecting the equilibrium intuition commonly associated with Le Chatelier's principle. Here, we show that dissipative chemical networks can instead transiently amplify small concentration fluctuations, spontaneously producing more assembled material than expected from steady-state behavior. This nonequilibrium phenomenon of transient growth lies outside the regime of formal equilibrium thermodynamics and is governed by a precise mathematical condition derived from the linearized dynamics. Our results provide a theoretical foundation for engineering responsive, energy-efficient, and selective soft materials, with implications for synthetic active matter, stimuli-responsive systems, and chemically driven networks that emulate biological adaptability.
+{% enddetails %}
 </p>
 
 <p><a href="https://doi.org/10.1103/PhysRevE.111.054130">Phase space contraction rate for classical mixed states</a><br>
