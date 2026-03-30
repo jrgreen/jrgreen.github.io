@@ -28,12 +28,6 @@ arXiv
 Under revision
 </p>-->
 
-<p><em>Phase space volume preserving dynamics for deterministic dynamical systems</em><br>
-Swetamber Das, Jason R. Green<br> 
-Under revision<br>
-<a href="http://arxiv.org/abs/2511.04960" target="_blank">arXiv</a>
-</p>
-
 <p><em>Reciprocity-breaking via nanoscale surface asymmetries stabilizes metastable phases in metal particles</em><br>
 Andrew Martin, Jason R. Green, Martin M. Thuo<br>
 Under revision<br>
@@ -61,6 +55,11 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 <p><em>Violation of thermodynamic speed limits as a criterion for physical model selection</em><br>
 Shiqi Chen, Jason R. Green<br>
 Submitted<br>
+</p>
+
+<p><em>Phase space volume preserving dynamics for deterministic dynamical systems</em><br>
+Swetamber Das, Jason R. Green<br> 
+<em>Chaos</em>&nbsp;<strong>2026</strong> Accepted<br>
 </p>
 
 <p><a href="https://doi.org/10.1073/pnas.2531136123">Transiently amplified fluctuations assemble dissipative materials</a><br>
