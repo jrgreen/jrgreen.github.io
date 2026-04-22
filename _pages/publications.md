@@ -49,17 +49,18 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 
 <p><em>Violation of thermodynamic speed limits as a criterion for physical model selection</em><br>
 Shiqi Chen, Jason R. Green<br>
-Submitted<br>
+Under revision<br>
 </p>
 
 <p><em>Interfacial organization governs maturation and collapse in passive and active condensates</em><br>
 Lilian Zeinalvand, Dipankar Barpuzary, Tae Hyun Ueon, Walter B. Lai, Yuanming Song, Zhaoxu Li, Rakia Dhaoui, Nehal Idris, Karthik Reddy Peddireddy, Rae M Robertson-Anderson, Douglas J. Tobias, Zhibin Guan, Jason R. Green, Joseph P. Patterson<br>
-<em>J. Am. Chem. Soc.</em>&nbsp;<strong>2026</strong> Accepted<br>
+<em>J. Am. Chem. Soc.</em>&nbsp;<strong>2026</strong> In press<br>
 </p>
 
-<p><em>Phase space volume preserving dynamics for deterministic dynamical systems</em><br>
+<p><a href="https://doi.org/10.1063/5.0311056">Phase space volume preserving dynamics for deterministic dynamical systems</a><br>
 Swetamber Das, Jason R. Green<br> 
-<em>Chaos</em>&nbsp;<strong>2026</strong> Accepted<br>
+<em>Chaos</em>&nbsp;<strong>2026</strong> 36 (4) 043120<br>
+<a href="http://arxiv.org/abs/2511.04960" target="_blank">arXiv</a>
 </p>
 
 <p><a href="https://doi.org/10.1073/pnas.2531136123">Transiently amplified fluctuations assemble dissipative materials</a><br>
@@ -117,7 +118,7 @@ Paul Joshua Hurst, Justin T. Mulvey, Rebecca A. Bone, Serxho Selmani, Redford F.
 </p>
 
 <p><a href="https://doi.org/10.1063/5.0165484" target="_blank">Classical Fisher information for differentiable dynamical systems</a><br>
-Mohamed Sahbani, Swetamber Das, Jason R. Green<br><em>Chaos</em> <strong>2023</strong> 33(10) p. 103139<br>
+Mohamed Sahbani, Swetamber Das, Jason R. Green<br><em>Chaos</em> <strong>2023</strong> 33 (10) 103139<br>
 <a href="https://arxiv.org/abs/2307.00026" target="_blank">arXiv</a>
 </p>
 
