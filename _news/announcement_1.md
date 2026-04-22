@@ -6,7 +6,14 @@ inline: false
 related_posts: false
 ---
 
-We currently have an opening for a Ph.D. student.
+We currently have openings for Ph.D. students.
+
+<small>Possible topics:<br>
+- Molecular neuromorphic devices for energy efficient computing<br>
+- Data-driven learning of dynamics from microscopy videos<br>
+- Transient growth of fluctuations in active materials<br>
+</small>
+
 
 ### Graduate Research Openings
 
