@@ -8,25 +8,24 @@ related_posts: false
 
 We currently have openings for Ph.D. students.
 
-<small>Possible topics:<br>
-- Molecular neuromorphic devices for energy efficient computing<br>
-- Data-driven learning of dynamics from microscopy videos<br>
-- Transient growth of fluctuations in active materials<br>
-</small>
-
-
-### Graduate Research Openings
+### Graduate Student Openings
 
 <small>There are open positions for Ph.D. students in Chemistry, Physics, and Computational Science. Our research group is located on the oceanfront campus of the University, Massachusetts, Boston, minutes from downtown. To apply, please submit all graduate-program application materials through the appropriate departmental website. Interested students are also encouraged contact Professor Green by email to learn more about ongoing research in the group.</small>
 
----
+<small>Possible topics:</small><br>
+- <small>Molecular neuromorphic devices for energy efficient computing</small><br>
+- <small>Data-driven learning of dynamics from microscopy videos</small><br>
+- <small>Transient growth of fluctuations in active materials</small><br>
 
-_Position filled 1 September 2024. Please check back here or reach out for other opportunities._
+---
 
 ### Postdoctoral Researcher Openings
 <br>
 
-<small>As a part of NSF funded projects, our group at the University of Massachusetts Boston has an opening for a highly-motivated and cross-disciplinary postdoctoral researcher interested in statistical mechanics and machine learning.</small>
+<small>If you are interested in a postdoctoral position in the group, please reach out to Professor Green directly.</small>
+
+<!--
+<small>Our group at the University of Massachusetts Boston has an opening for a highly-motivated and cross-disciplinary postdoctoral researcher interested in statistical mechanics and machine learning.</small>
 
 <small>The position is open to recent Ph.D.s with a demonstrated ability to conduct high-impact research. The successful candidate will join a cutting-edge theoretical research project, collaborating with the PI and other group members to develop statistical mechanics, machine learning, and nonlinear dynamics to understand nonequilibrium processes. The group’s research is interdisciplinary, focusing on complex chemical and physical systems and their dynamics away from equilibrium. For example, the group has been actively working on thermodynamic speed limits (e.g., Nicholson, García-Pintos, del Campo, Green _Nat. Phys._ **2020** 16(12), p. 1211-1215; Das, Green _Phys. Rev. Research_ **2023** 5 L012016; Das, Green _Phys. Rev. E_ **2024** in press <a href="https://doi.org/10.48550/arXiv.2305.12047">arXiv:2305.12047</a>). Familiarity with speed limits or complementary theory would be a plus.</small>
 
@@ -37,4 +36,4 @@ _Position filled 1 September 2024. Please check back here or reach out for other
 <small>**To apply:** Interested candidates should e-mail an application to Professor Green (jason.green@umb.edu) including a curriculum vitae and the names/contact information of two potential recommendations.</small>
 
 <small>Candidates selected for further consideration will be asked to send letters of recommendation. Review of applications will begin immediately and continue until the positions are filled.</small>
-
+-->
