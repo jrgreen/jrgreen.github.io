@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open positions in the group
-date: 2025-04-15 16:11:00-0400
+date: 2026-04-15 16:11:00-0400
 inline: false
 related_posts: false
 ---
