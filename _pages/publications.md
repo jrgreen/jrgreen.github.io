@@ -28,6 +28,11 @@ arXiv
 Under revision
 </p>-->
 
+<p><em>Harvesting steers dynamical populations</em><br>
+R.~K. Singh, Michael Assaf, Jason R. Green, Erez Aghion<br>
+Submitted<br>
+</p>
+
 <p><em>Reciprocity-breaking via nanoscale surface asymmetries stabilizes metastable phases in metal particles</em><br>
 Andrew Martin, Jason R. Green, Martin M. Thuo<br>
 Under revision<br>
