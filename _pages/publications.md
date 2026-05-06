@@ -57,9 +57,9 @@ Shiqi Chen, Jason R. Green<br>
 Under revision<br>
 </p>
 
-<p><a href="https://pubs.acs.org/doi/10.1021/jacs.6c00997">Interfacial organization governs maturation and collapse in passive and active condensates</a><br>
+<p><a href="https://doi.org/10.1021/jacs.6c00997">Interfacial organization governs maturation and collapse in passive and active condensates</a><br>
 Lilian Zeinalvand, Dipankar Barpuzary, Tae Hyun Ueon, Walter B. Lai, Yuanming Song, Zhaoxu Li, Rakia Dhaoui, Nehal Idris, Karthik Reddy Peddireddy, Rae M. Robertson-Anderson, Douglas J. Tobias, Zhibin Guan, Jason R. Green, Joseph P. Patterson<br>
-<em>J. Am. Chem. Soc.</em>&nbsp;<strong>2026</strong> In press<br>
+<em>J. Am. Chem. Soc.</em>&nbsp;<strong>2026</strong> 148 (17) p. 17967-17976<br>
 </p>
 
 <p><a href="https://doi.org/10.1063/5.0311056">Phase space volume preserving dynamics for deterministic dynamical systems</a><br>
