@@ -54,7 +54,7 @@ We show how thermodynamic uncertainty relations and speed limits on nonequilibri
 
 <p><em>Violation of thermodynamic speed limits as a criterion for physical model selection</em><br>
 Shiqi Chen, Jason R. Green<br>
-Under revision<br>
+<em>Mach. Learn.: Sci. Technol.</em>&nbsp;<strong>2026</strong> Accepted<br>
 </p>
 
 <p><a href="https://doi.org/10.1021/jacs.6c00997">Interfacial organization governs maturation and collapse in passive and active condensates</a><br>
