@@ -78,7 +78,7 @@ Materials that assemble through chemical reactions are often designed with the e
 </p>
 
 <p><a href="https://doi.org/10.1103/PhysRevE.111.054130">Phase space contraction rate for classical mixed states</a><br>
-Mohamed Sahbani, Swetamber Das, Jason R. Green<br> <em>Phys. Rev. E</em> <strong>2025</strong> 111(5) 054130<br>
+Mohamed Sahbani, Swetamber Das, Jason R. Green<br> <em>Phys. Rev. E</em> <strong>2025</strong> 111 (5) 054130<br>
 <a href="http://arxiv.org/abs/2502.09361" target="_blank">arXiv</a>
 </p>
 
@@ -93,7 +93,7 @@ Complexity in surfaces due to compositional self-organization generates a thermo
 
 <p><a href="https://doi.org/10.1103/PhysRevResearch.7.L012078">Dissipation rates from experimental uncertainty</a><br>
 Aishani Ghosal, Jason R. Green<br>
-<em>Phys. Rev. Res. (Letter)</em> <strong>2025</strong> 7(1) L012078<br>
+<em>Phys. Rev. Res. (Letter)</em> <strong>2025</strong> 7 (1) L012078<br>
 <a href="https://doi.org/10.48550/arXiv.2406.05333" target="_blank">arXiv</a>
 {% details Summary %}
 Reparameterizing the speed limit set by the Fisher information, we show how to infer dissipation rates from directly observable quantities without an analytically solvable model or full time-dependent probability distribution.
@@ -102,14 +102,14 @@ Reparameterizing the speed limit set by the Fisher information, we show how to i
 
 <p><a href="https://doi.org/10.1088/1751-8121/ad8f06">Spectral bounds on the entropy flow rate and Lyapunov exponents in differentiable dynamical systems</a><br>
 Swetamber Das, Jason R. Green<br>
-<em>J. Phys. A: Math. Theor.</em> <strong>2025</strong> 58(3) 035003<br><a href="http://arxiv.org/abs/2501.04485" target="_blank">arXiv</a>
+<em>J. Phys. A: Math. Theor.</em> <strong>2025</strong> 58 (3) 035003<br><a href="http://arxiv.org/abs/2501.04485" target="_blank">arXiv</a>
 </p>
 
-<p><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104">Maximum speed of dissipation</a><br>Swetamber Das, Jason R. Green<br><em>Phys. Rev. E (Letter)</em> <strong>2024</strong> 109(5) L052104<br><a href="https://arxiv.org/abs/2305.12047" target="_blank">arXiv</a></p>
+<p><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104">Maximum speed of dissipation</a><br>Swetamber Das, Jason R. Green<br><em>Phys. Rev. E (Letter)</em> <strong>2024</strong> 109 (5) L052104<br><a href="https://arxiv.org/abs/2305.12047" target="_blank">arXiv</a></p>
 
 <div style="width: 100%; overflow: hidden;">
      <div style="width: 600px; float: left;"> 
-<p class="" style="white-space:pre-wrap;"><a href="https://doi.org/10.1021/acsnano.4c01524">Observing the dynamics of an electrochemically driven active material with liquid electron microscopy</a><br>Wyeth S. Gibson, Justin T. Mulvey, Swetamber Das, Serxho Selmani, Jovany G. Merham, Alexander M. Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, Joseph P. Patterson<br><em>ACS Nano</em> <strong>2024</strong> 18(18) p. 11898–11909
+<p class="" style="white-space:pre-wrap;"><a href="https://doi.org/10.1021/acsnano.4c01524">Observing the dynamics of an electrochemically driven active material with liquid electron microscopy</a><br>Wyeth S. Gibson, Justin T. Mulvey, Swetamber Das, Serxho Selmani, Jovany G. Merham, Alexander M. Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, Joseph P. Patterson<br><em>ACS Nano</em> <strong>2024</strong> 18 (18) p. 11898–11909
 </p>
 </div>
 <!--<div style="margin-left: 620px;"> 
@@ -119,7 +119,7 @@ Swetamber Das, Jason R. Green<br>
 
 <p><a href="https://doi.org/10.1039/D3SC05790A" target="_blank">CryoEM reveals the complex self-assembly of a chemically driven disulfide hydrogel</a><br>
 Paul Joshua Hurst, Justin T. Mulvey, Rebecca A. Bone, Serxho Selmani, Redford F. Hudson, Zhibin Guan, Jason R. Green, Joseph P. Patterson<br>
-<em>Chemical Science</em> <strong>2024</strong> 15(3), p. 1106-1116
+<em>Chemical Science</em> <strong>2024</strong> 15 (3), p. 1106-1116
 </p>
 
 <p><a href="https://doi.org/10.1063/5.0165484" target="_blank">Classical Fisher information for differentiable dynamical systems</a><br>
@@ -127,7 +127,7 @@ Mohamed Sahbani, Swetamber Das, Jason R. Green<br><em>Chaos</em> <strong>2023</s
 <a href="https://arxiv.org/abs/2307.00026" target="_blank">arXiv</a>
 </p>
 
-<p><a href="https://doi.org/10.1063/5.0142589" target="_blank">Prevalence of multistability and nonstationarity in driven chemical networks<br></a>Zachary G. Nicolaou, Schuyler B. Nicholson, Adilson E. Motter, Jason R. Green<br><em>J. Chem. Phys.</em> <strong>2023</strong> 158(22) p. 225101
+<p><a href="https://doi.org/10.1063/5.0142589" target="_blank">Prevalence of multistability and nonstationarity in driven chemical networks<br></a>Zachary G. Nicolaou, Schuyler B. Nicholson, Adilson E. Motter, Jason R. Green<br><em>J. Chem. Phys.</em> <strong>2023</strong> 158 (22) 225101
 <!--<details>
 <summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
@@ -138,11 +138,11 @@ Numerous biological and artificial processes exploit multistability and nonstati
 {% enddetails %}
 </p>
 
-<p><a href="https://doi.org/10.1515/jnet-2022-0104" target="_blank">Relations between timescales of stochastic thermodynamic observables</a><br>Erez Aghion, Jason R. Green<br><em>J. Non-Equilib. Thermodyn.</em> <strong>2023</strong> 48(4) p. 417-432</p><p class="" style="white-space:pre-wrap;"><a href="https://doi.org/10.1088/1751-8121/acb5d6" target="_blank">Thermodynamic speed limits for mechanical work</a><br>Erez Aghion, Jason R. Green<br><em>J. Phys. A: Math. Theor.</em> <em>(Letter) </em><strong>2023</strong> 56(5) p. 05LT01<strong><br></strong><a href="http://arxiv.org/abs/2204.10368" target="_blank">arXiv</a></p>
+<p><a href="https://doi.org/10.1515/jnet-2022-0104" target="_blank">Relations between timescales of stochastic thermodynamic observables</a><br>Erez Aghion, Jason R. Green<br><em>J. Non-Equilib. Thermodyn.</em> <strong>2023</strong> 48 (4) p. 417-432</p><p class="" style="white-space:pre-wrap;"><a href="https://doi.org/10.1088/1751-8121/acb5d6" target="_blank">Thermodynamic speed limits for mechanical work</a><br>Erez Aghion, Jason R. Green<br><em>J. Phys. A: Math. Theor.</em> <em>(Letter) </em><strong>2023</strong> 56 (5) 05LT01<strong><br></strong><a href="http://arxiv.org/abs/2204.10368" target="_blank">arXiv</a></p>
 
 <div style="width: 100%; overflow: hidden;">
      <div style="width: 600px; float: left;"> 
-  <p class="" style="white-space:pre-wrap;"><a href="https://link.aps.org/doi/10.1103/PhysRevResearch.5.L012016" target="_blank">Speed limits on deterministic chaos and dissipation</a><br>Swetamber Das, Jason R. Green<br><em>Phys. Rev. Res. (Letter)</em> <strong>2023</strong> 5(1) p. L012016<strong><br></strong><a href="https://arxiv.org/abs/2110.06993" target="_blank">arXiv</a></p>
+  <p class="" style="white-space:pre-wrap;"><a href="https://link.aps.org/doi/10.1103/PhysRevResearch.5.L012016" target="_blank">Speed limits on deterministic chaos and dissipation</a><br>Swetamber Das, Jason R. Green<br><em>Phys. Rev. Res. (Letter)</em> <strong>2023</strong> 5 (1) L012016<strong><br></strong><a href="https://arxiv.org/abs/2110.06993" target="_blank">arXiv</a></p>
 
 </div>
 <!--<div style="margin-left: 620px;"> 
@@ -150,12 +150,12 @@ Numerous biological and artificial processes exploit multistability and nonstati
 </div>-->
 </div>
 
-<p><a href="https://doi.org/10.1063/5.0125479" target="_blank">Optimizing dynamical functions for speed with stochastic paths</a><br>Rebecca A. Bone, Jason R. Green<br><em>J. Chem. Phys.</em> <strong>2022</strong> 157(22) p. 224101<br>
+<p><a href="https://doi.org/10.1063/5.0125479" target="_blank">Optimizing dynamical functions for speed with stochastic paths</a><br>Rebecca A. Bone, Jason R. Green<br><em>J. Chem. Phys.</em> <strong>2022</strong> 157 (22) 224101<br>
 <a href="https://zenodo.org/badge/latestdoi/513167718">
 Supporting code: <img style='horizontal-align:left; vertical-align:middle; display:inline;' src="https://zenodo.org/badge/513167718.svg" alt="DOI"></a>
 </p>
 
-<p><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.054151" target="_blank">Stochastic paths controlling speed and dissipation</a><br>Rebecca A. Bone, Daniel J. Sharpe, David J. Wales, Jason R. Green<br><em>Phys. Rev. E</em> <strong>2022</strong> 106(5) p. 054151<strong><br></strong><a href="http://arxiv.org/abs/2109.12202" target="_blank">arXiv</a><br>
+<p><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.054151" target="_blank">Stochastic paths controlling speed and dissipation</a><br>Rebecca A. Bone, Daniel J. Sharpe, David J. Wales, Jason R. Green<br><em>Phys. Rev. E</em> <strong>2022</strong> 106 (5) 054151<strong><br></strong><a href="http://arxiv.org/abs/2109.12202" target="_blank">arXiv</a><br>
 <a href="https://zenodo.org/badge/latestdoi/280687280">Supporting code: <img style='horizontal-align:left; vertical-align:middle; display:inline;' src="https://zenodo.org/badge/280687280.svg" alt="DOI"></a>
 <!--<details>
 <summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
@@ -167,7 +167,7 @@ Thermodynamic intuition suggests that fast, irreversible processes will dissipat
 {% enddetails %}
 </p>
 
-<p><a href="https://doi.org/10.1063/5.0106714" target="_blank">Dynamic scaling of stochastic thermodynamic observables for chemical reactions at and away from equilibrium</a><br>Shrabani Mondal, Jonah S. Greenberg, Jason R. Green<br><em>J. Chem. Phys.</em> <strong>2022 </strong>157(19) p. 194105<strong><br></strong><a href="http://arxiv.org/abs/2101.01613" target="_blank">arXiv</a></p><p class="" style="white-space:pre-wrap;"><a href="https://link.aps.org/doi/10.1103/PhysRevE.106.054135" target="_blank">Density matrix formulation of dynamical systems<br></a>Swetamber Das, Jason R. Green<br><em>Phys. Rev. E</em> <strong>2022</strong> 106(5) p. 054135<strong><br></strong><a href="https://arxiv.org/abs/2106.05911" target="_blank">arXiv</a>
+<p><a href="https://doi.org/10.1063/5.0106714" target="_blank">Dynamic scaling of stochastic thermodynamic observables for chemical reactions at and away from equilibrium</a><br>Shrabani Mondal, Jonah S. Greenberg, Jason R. Green<br><em>J. Chem. Phys.</em> <strong>2022 </strong>157 (19) 194105<strong><br></strong><a href="http://arxiv.org/abs/2101.01613" target="_blank">arXiv</a></p><p class="" style="white-space:pre-wrap;"><a href="https://link.aps.org/doi/10.1103/PhysRevE.106.054135" target="_blank">Density matrix formulation of dynamical systems<br></a>Swetamber Das, Jason R. Green<br><em>Phys. Rev. E</em> <strong>2022</strong> 106 (5) 054135<strong><br></strong><a href="https://arxiv.org/abs/2106.05911" target="_blank">arXiv</a>
 <!--<details>
 <summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
@@ -178,7 +178,7 @@ We derive a theory for any classical dynamical system that is analogous to the d
 {% enddetails %}
 </p>
 
-<p class="" style="white-space:pre-wrap;"><a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.011038">Unifying quantum and classical speed limits on observables</a><br>Luis Pedro García-Pintos, Schuyler B. Nicholson, Jason R. Green, Adolfo del Campo, Alexey V. Gorshkov<br><em>Phys. Rev. X</em> <strong>2022</strong> 12(1) p. 011038<br><a href="https://arxiv.org/abs/2108.04261" target="_blank">arXiv</a>
+<p class="" style="white-space:pre-wrap;"><a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.011038">Unifying quantum and classical speed limits on observables</a><br>Luis Pedro García-Pintos, Schuyler B. Nicholson, Jason R. Green, Adolfo del Campo, Alexey V. Gorshkov<br><em>Phys. Rev. X</em> <strong>2022</strong> 12 (1) 011038<br><a href="https://arxiv.org/abs/2108.04261" target="_blank">arXiv</a>
 <!--<details>
 <summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
@@ -189,9 +189,9 @@ We derive a bound on the speed with which observables of open quantum systems ev
 {% enddetails %}
 </p>
 
-<p class="" style="white-space:pre-wrap;"><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043059" target="_blank">Non-normality and non-monotonic dynamics in complex reaction networks</a><br>Zachary G. Nicolaou, Takashi Nishikawa, Schuyler B. Nicholson, Jason R. Green, Adilson E. Motter<br><em>Phys. Rev. Res.</em> <strong>2020</strong> 2(4) p. 043059<br><a href="https://arxiv.org/abs/2008.09616">arXiv</a></p>
+<p class="" style="white-space:pre-wrap;"><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043059" target="_blank">Non-normality and non-monotonic dynamics in complex reaction networks</a><br>Zachary G. Nicolaou, Takashi Nishikawa, Schuyler B. Nicholson, Jason R. Green, Adilson E. Motter<br><em>Phys. Rev. Res.</em> <strong>2020</strong> 2 (4) 043059<br><a href="https://arxiv.org/abs/2008.09616">arXiv</a></p>
 
-<p><a href="https://www.nature.com/articles/s41567-020-0981-y" target="_blank">Time-information uncertainty relations in thermodynamics</a><br>Schuyler B. Nicholson, Luis Pedro García-Pintos, Adolfo del Campo, Jason R. Green<br><em>Nat. Phys. </em><strong>2020 </strong>16(12) p. 1211-1215<strong><br></strong><a href="https://arxiv.org/abs/2001.05418" target="_blank">arXiv</a><br>
+<p><a href="https://www.nature.com/articles/s41567-020-0981-y" target="_blank">Time-information uncertainty relations in thermodynamics</a><br>Schuyler B. Nicholson, Luis Pedro García-Pintos, Adolfo del Campo, Jason R. Green<br><em>Nat. Phys. </em><strong>2020 </strong>16 (12) p. 1211-1215<strong><br></strong><a href="https://arxiv.org/abs/2001.05418" target="_blank">arXiv</a><br>
 <!--<details>
 <summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
@@ -202,10 +202,10 @@ Editor summary: “A time–information uncertainty relation in thermodynamics h
 {% enddetails %}
 </p>
 
-<p><a href="https://pubs.acs.org/doi/10.1021/acs.jpca.0c02734">Benchmarking the performance of the ReaxFF reactive force field on hydrogen combustion systems</a><br>Luke W. Bertels, Lucas B. Newcomb, Mohammad Alaghemandi, Jason R. Green, Martin Head-Gordon<br><em>J. Phys. Chem. A</em>&nbsp;<strong>2020</strong> 124(27) p.5631–5645
+<p><a href="https://pubs.acs.org/doi/10.1021/acs.jpca.0c02734">Benchmarking the performance of the ReaxFF reactive force field on hydrogen combustion systems</a><br>Luke W. Bertels, Lucas B. Newcomb, Mohammad Alaghemandi, Jason R. Green, Martin Head-Gordon<br><em>J. Phys. Chem. A</em>&nbsp;<strong>2020</strong> 124 (27) p.5631–5645
 </p>
 
-<p class="" style="white-space:pre-wrap;"><a href="https://www.nature.com/articles/s41467-019-10040-3" target="_blank">Critical fluctuations and slowing down of chaos</a><br>Moupriya Das, Jason R. Green<br><em>Nat. Commun.</em>&nbsp;<strong>2019</strong>&nbsp;10(1) p. 2155<br><a href="https://rdcu.be/bBKdb" target="_blank">Full text</a><br><a href="https://arxiv.org/abs/1808.03255" target="_blank">arXiv</a>
+<p class="" style="white-space:pre-wrap;"><a href="https://www.nature.com/articles/s41467-019-10040-3" target="_blank">Critical fluctuations and slowing down of chaos</a><br>Moupriya Das, Jason R. Green<br><em>Nat. Commun.</em>&nbsp;<strong>2019</strong>&nbsp;10 (1) 2155<br><a href="https://rdcu.be/bBKdb" target="_blank">Full text</a><br><a href="https://arxiv.org/abs/1808.03255" target="_blank">arXiv</a>
 <!--<details>
 <summary style="list-style-type: circle;margin-left:5%;"><b>Summary</b></summary>
 <blockquote style="margin-left:10%; margin-right:10%;background-color:#f5f5f5">
@@ -226,65 +226,65 @@ In chemistry and physics, it is well known that cooling a fluid to its liquid-va
 
 </p>
 
-<p class="" style="white-space:pre-wrap;"><a href="https://pubs.acs.org/doi/full/10.1021/acs.jpcb.9b02811" target="_blank">Typical stochastic paths in the dissipative assembly of fibrous materials</a><br>Schuyler B. Nicholson, Rebecca A. Bone, Jason R. Green<br><em>J. Phys. Chem. B</em>&nbsp;<strong>2019</strong>&nbsp;123(22) p. 4792-4802<br><strong><em>Invited submission to the "Deciphering Molecular Complexity in Dynamics and Kinetics - From the Single Molecule to the Single Cell Level" </em></strong><a href="https://pubs.acs.org/page/jpcbfk/vsi/molecular-complexity" target="_blank">issue</a>
+<p class="" style="white-space:pre-wrap;"><a href="https://pubs.acs.org/doi/full/10.1021/acs.jpcb.9b02811" target="_blank">Typical stochastic paths in the dissipative assembly of fibrous materials</a><br>Schuyler B. Nicholson, Rebecca A. Bone, Jason R. Green<br><em>J. Phys. Chem. B</em>&nbsp;<strong>2019</strong>&nbsp;123 (22) p. 4792-4802<br><strong><em>Invited submission to the "Deciphering Molecular Complexity in Dynamics and Kinetics - From the Single Molecule to the Single Cell Level" </em></strong><a href="https://pubs.acs.org/page/jpcbfk/vsi/molecular-complexity" target="_blank">issue</a>
 </p>
 
-<p><a href="https://doi.org/10.1103/PhysRevE.98.032106" target="_blank">Nonequilibrium uncertainty principle from information geometry</a><br>Schuyler B. Nicholson, Adolfo del Campo, Jason R. Green<br><em>Phys. Rev. E</em>&nbsp;<strong>2018</strong>&nbsp;98(3) 032106<br><a href="https://arxiv.org/abs/1801.02242" target="_blank">arXiv</a>
-</p>
-
-<p>
-<a href="http://pubs.rsc.org/en/content/articlelanding/2018/cp/c8cp00905h#!divAbstract" target="_blank">Explosion limits of hydrogen-oxygen mixtures from nonequilibrium critical points</a><br>Lucas B. Newcomb, Michael E. Marucci, Jason R. Green<br><em>Phys. Chem. Chem. Phys.</em>&nbsp;<strong>2018</strong>&nbsp;20(23) p. 15746-15752<br><strong><em>Selected as a 2018 PCCP HOT Article.</em></strong>
+<p><a href="https://doi.org/10.1103/PhysRevE.98.032106" target="_blank">Nonequilibrium uncertainty principle from information geometry</a><br>Schuyler B. Nicholson, Adolfo del Campo, Jason R. Green<br><em>Phys. Rev. E</em>&nbsp;<strong>2018</strong>&nbsp;98 (3) 032106<br><a href="https://arxiv.org/abs/1801.02242" target="_blank">arXiv</a>
 </p>
 
 <p>
-<a href="https://link.aps.org/doi/10.1103/PhysRevE.97.012146" target="_blank">Entrance and escape dynamics for the typical set</a><br>Schuyler B. Nicholson, Jonah S. Greenberg, and Jason R. Green<br><em>Phys. Rev. E</em>&nbsp;<strong>2018</strong>&nbsp;97(1) 012146&nbsp;
+<a href="http://pubs.rsc.org/en/content/articlelanding/2018/cp/c8cp00905h#!divAbstract" target="_blank">Explosion limits of hydrogen-oxygen mixtures from nonequilibrium critical points</a><br>Lucas B. Newcomb, Michael E. Marucci, Jason R. Green<br><em>Phys. Chem. Chem. Phys.</em>&nbsp;<strong>2018</strong>&nbsp;20 (23) p. 15746-15752<br><strong><em>Selected as a 2018 PCCP HOT Article.</em></strong>
 </p>
 
 <p>
-<a href="http://scitation.aip.org/content/aip/journal/jcp/148/4/10.1063/1.5012760" target="_blank">Effects of temperature and mass conservation on the typical chemical sequences of hydrogen oxidation</a><br>Schuyler B. Nicholson, Mohammad Alaghemandi, Jason R. Green<br><em>J. Chem. Phys.</em>&nbsp;<strong>2018</strong>&nbsp;148(4) p. 044102&nbsp;
+<a href="https://link.aps.org/doi/10.1103/PhysRevE.97.012146" target="_blank">Entrance and escape dynamics for the typical set</a><br>Schuyler B. Nicholson, Jonah S. Greenberg, and Jason R. Green<br><em>Phys. Rev. E</em>&nbsp;<strong>2018</strong>&nbsp;97 (1) 012146&nbsp;
 </p>
 
 <p>
-<a href="http://dx.doi.org/10.1039/C7CP04572G" target="_blank">Nonexponential kinetics of ion pair dissociation in electrofreezing water</a><br>Mohammad Alaghemandi, Volkmar Koller, and Jason R. Green<br><em>Phys. Chem. Chem. Phys.</em>&nbsp;<strong>2017</strong>&nbsp;19(38) p. 26396-26402
+<a href="http://scitation.aip.org/content/aip/journal/jcp/148/4/10.1063/1.5012760" target="_blank">Effects of temperature and mass conservation on the typical chemical sequences of hydrogen oxidation</a><br>Schuyler B. Nicholson, Mohammad Alaghemandi, Jason R. Green<br><em>J. Chem. Phys.</em>&nbsp;<strong>2018</strong>&nbsp;148 (4) 044102&nbsp;
 </p>
 
 <p>
-<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.115502" target="_blank">Self-averaging fluctuations in the chaoticity of simple fluids</a><br>Moupriya Das, Jason R. Green<br><em>Phys. Rev. Lett.</em>&nbsp;<strong>2017</strong>&nbsp;119(11), p. 115502<br>
+<a href="http://dx.doi.org/10.1039/C7CP04572G" target="_blank">Nonexponential kinetics of ion pair dissociation in electrofreezing water</a><br>Mohammad Alaghemandi, Volkmar Koller, and Jason R. Green<br><em>Phys. Chem. Chem. Phys.</em>&nbsp;<strong>2017</strong>&nbsp;19 (38) p. 26396-26402
+</p>
+
+<p>
+<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.115502" target="_blank">Self-averaging fluctuations in the chaoticity of simple fluids</a><br>Moupriya Das, Jason R. Green<br><em>Phys. Rev. Lett.</em>&nbsp;<strong>2017</strong>&nbsp;119 (11), 115502<br>
 <a href="http://arxiv.org/abs/1705.10901" target="_blank">arXiv</a><br><strong><em>Featured on </em></strong><a href="http://physicsbuzz.physicscentral.com/2017/10/quantifying-chaos-to-understand-liquids.html" target="_blank"><strong><em>Physics Buzz</em></strong></a><br>
 </p>
 
 <p>
-<a href="http://aip.scitation.org/doi/full/10.1063/1.4994265" target="_blank">Nonequilibrium phase coexistence and criticality near the second explosion limit of hydrogen combustion</a><br>Lucas B. Newcomb, Mohammad Alaghemandi, Jason R. Green<br><em>J. Chem. Phys.</em>&nbsp;<strong>2017</strong>&nbsp;147(3), p. 034108
+<a href="http://aip.scitation.org/doi/full/10.1063/1.4994265" target="_blank">Nonequilibrium phase coexistence and criticality near the second explosion limit of hydrogen combustion</a><br>Lucas B. Newcomb, Mohammad Alaghemandi, Jason R. Green<br><em>J. Chem. Phys.</em>&nbsp;<strong>2017</strong>&nbsp;147 (3), 034108
 </p>
 
 <p>
-<a href="http://pubs.acs.org/doi/abs/10.1021/acs.jpca.7b00249" target="_blank">Ignition in an atomistic model of hydrogen oxidation</a><br>Mohammad Alaghemandi, Lucas B. Newcomb, Jason R. Green<br><em>J. Phys. Chem. A</em>&nbsp;<strong>2017</strong>&nbsp;121(8) p. 1686-1692
+<a href="http://pubs.acs.org/doi/abs/10.1021/acs.jpca.7b00249" target="_blank">Ignition in an atomistic model of hydrogen oxidation</a><br>Mohammad Alaghemandi, Lucas B. Newcomb, Jason R. Green<br><em>J. Phys. Chem. A</em>&nbsp;<strong>2017</strong>&nbsp;121 (8) p. 1686-1692
 </p>
 
 <p>
-<a href="http://link.aps.org/doi/10.1103/PhysRevE.95.022102" target="_blank">Extensivity and additivity of the Kolmogorov-Sinai entropy for simple fluids</a><br>Moupriya Das, Anthony B. Costa, Jason R. Green<br><em>Phys. Rev. E</em>&nbsp;<strong>2017</strong>&nbsp;95(2) p. 022102
+<a href="http://link.aps.org/doi/10.1103/PhysRevE.95.022102" target="_blank">Extensivity and additivity of the Kolmogorov-Sinai entropy for simple fluids</a><br>Moupriya Das, Anthony B. Costa, Jason R. Green<br><em>Phys. Rev. E</em>&nbsp;<strong>2017</strong>&nbsp;95 (2) 022102
 </p>
 
 <p>
-<a href="http://scitation.aip.org/content/aip/journal/jcp/145/8/10.1063/1.4961485" target="_blank">Learning the mechanisms of chemical disequilibria</a><br>Schuyler B. Nicholson, Mohammad Alaghemandi, Jason R. Green<br><em>J. Chem. Phys.</em>&nbsp;<strong>2016</strong>&nbsp;145(8) p. 084112
+<a href="http://scitation.aip.org/content/aip/journal/jcp/145/8/10.1063/1.4961485" target="_blank">Learning the mechanisms of chemical disequilibria</a><br>Schuyler B. Nicholson, Mohammad Alaghemandi, Jason R. Green<br><em>J. Chem. Phys.</em>&nbsp;<strong>2016</strong>&nbsp;145 (8) 084112
 </p>
 
 <p>
-<a href="http://pubs.rsc.org/en/content/articlelanding/2015/cp/c5cp05125h#!divAbstract" target="_blank">Reactive symbol sequences for a model of hydrogen combustion</a><br>Mohammad Alaghemandi, Jason R. Green<br><em>Phys. Chem. Chem. Phys.</em>&nbsp;<strong>2016</strong>&nbsp;18(4), p. 2810-2817
+<a href="http://pubs.rsc.org/en/content/articlelanding/2015/cp/c5cp05125h#!divAbstract" target="_blank">Reactive symbol sequences for a model of hydrogen combustion</a><br>Mohammad Alaghemandi, Jason R. Green<br><em>Phys. Chem. Chem. Phys.</em>&nbsp;<strong>2016</strong>&nbsp;18 (4), p. 2810-2817
 </p>
 
 <p>
-<a href="http://scitation.aip.org/content/aip/journal/jcp/142/6/10.1063/1.4907629" target="_blank">Order and disorder in irreversible decay processes</a><br>Jonathan W. Nichols, Shane W. Flynn, Jason R. Green<br><em>J. Chem. Phys.</em>&nbsp;<strong>2015</strong>&nbsp;142(6) p. 064113<br>
+<a href="http://scitation.aip.org/content/aip/journal/jcp/142/6/10.1063/1.4907629" target="_blank">Order and disorder in irreversible decay processes</a><br>Jonathan W. Nichols, Shane W. Flynn, Jason R. Green<br><em>J. Chem. Phys.</em>&nbsp;<strong>2015</strong>&nbsp;142 (6) 064113<br>
 <a href="http://arxiv.org/abs/1502.02697" target="_blank">arXiv</a>
 </p>
 
 <p>
-<a href="http://scitation.aip.org/content/aip/journal/jcp/141/10/10.1063/1.4895514" target="_blank">Measuring disorder in irreversible decay processes</a><br>Shane W. Flynn, Helen C. Zhao, Jason R. Green<br><em>J. Chem. Phys.</em>&nbsp;<strong>2014</strong>&nbsp;141(10) p. 104107<br>
+<a href="http://scitation.aip.org/content/aip/journal/jcp/141/10/10.1063/1.4895514" target="_blank">Measuring disorder in irreversible decay processes</a><br>Shane W. Flynn, Helen C. Zhao, Jason R. Green<br><em>J. Chem. Phys.</em>&nbsp;<strong>2014</strong>&nbsp;141 (10) 104107<br>
 <a href="http://arxiv.org/abs/1409.2566" target="_blank">arXiv</a>
 </p>
 
 <p>
-<a href="http://www.pnas.org/content/110/41/16339.abstract" target="_blank">A relationship between dynamical entropy and energy dissipation far from thermodynamic equilibrium</a><br>Jason R. Green, Anthony B. Costa, Bartosz A. Grzybowski, Igal Szleifer<br><em>Proc. Natl. Acad. Sci. USA</em>&nbsp;<strong>2013</strong>&nbsp;110(41) p. 16339-16343
+<a href="http://www.pnas.org/content/110/41/16339.abstract" target="_blank">A relationship between dynamical entropy and energy dissipation far from thermodynamic equilibrium</a><br>Jason R. Green, Anthony B. Costa, Bartosz A. Grzybowski, Igal Szleifer<br><em>Proc. Natl. Acad. Sci. USA</em>&nbsp;<strong>2013</strong>&nbsp;110 (41) p. 16339-16343
 </p>
 
 <p>
@@ -296,15 +296,15 @@ In chemistry and physics, it is well known that cooling a fluid to its liquid-va
 </p>
 
 <p>
-<a href="https://doi.org/10.1063/1.3658642" target="_blank">Characterizing molecular motion in H2O and H3O+ with dynamical instability statistics</a><br>Jason R. Green, Thomas S. Hofer, R. Stephen Berry, David J. Wales<br><em>J. Chem. Phys.</em>&nbsp;<strong>2011</strong>&nbsp;135(18) p. 184307
+<a href="https://doi.org/10.1063/1.3658642" target="_blank">Characterizing molecular motion in H2O and H3O+ with dynamical instability statistics</a><br>Jason R. Green, Thomas S. Hofer, R. Stephen Berry, David J. Wales<br><em>J. Chem. Phys.</em>&nbsp;<strong>2011</strong>&nbsp;135 (18) 184307
 </p>
 
 <p>
-<a href="http://pubs.acs.org/doi/abs/10.1021/jp111843r" target="_blank">When do molecular bowls encapsulate metal cations?</a><br>Jason R. Green, Robert C. Dunbar<br><em>J. Phys. Chem. A</em>&nbsp;<strong>2011</strong>&nbsp;115(19) p. 4968-4975
+<a href="http://pubs.acs.org/doi/abs/10.1021/jp111843r" target="_blank">When do molecular bowls encapsulate metal cations?</a><br>Jason R. Green, Robert C. Dunbar<br><em>J. Phys. Chem. A</em>&nbsp;<strong>2011</strong>&nbsp;115 (19) p. 4968-4975
 </p>
 
 <p>
-<a href="http://link.aps.org/doi/10.1103/PhysRevE.80.066205" target="_blank">Space-time properties of Gram-Schmidt vectors in classical Hamiltonian evolution</a><br>Jason R. Green, Julius Jellinek, R. Stephen Berry<br><em>Phys. Rev. E</em>&nbsp;<strong>2009</strong>&nbsp;80(6) p. 066205
+<a href="http://link.aps.org/doi/10.1103/PhysRevE.80.066205" target="_blank">Space-time properties of Gram-Schmidt vectors in classical Hamiltonian evolution</a><br>Jason R. Green, Julius Jellinek, R. Stephen Berry<br><em>Phys. Rev. E</em>&nbsp;<strong>2009</strong>&nbsp;80 (6) 066205
 </p>
 
 <p>
@@ -312,11 +312,11 @@ In chemistry and physics, it is well known that cooling a fluid to its liquid-va
 </p>
 
 <p>
-<a href="http://pubs.acs.org/doi/abs/10.1021/jp046228g" target="_blank">Inverse heavy-atom kinetic isotope effects in chloroalkanes</a><br>Jason R. Green, R. Graham Cooks<br><em>J. Phys. Chem. A</em>&nbsp;<strong>2004</strong>&nbsp;108(46) p. 10039-10043
+<a href="http://pubs.acs.org/doi/abs/10.1021/jp046228g" target="_blank">Inverse heavy-atom kinetic isotope effects in chloroalkanes</a><br>Jason R. Green, R. Graham Cooks<br><em>J. Phys. Chem. A</em>&nbsp;<strong>2004</strong>&nbsp;108 (46) p. 10039-10043
 </p>
 
 <p>
-<a href="http://pubs.acs.org/doi/abs/10.1021/jp058296o" target="_blank">References</a><br>Jason R. Green, R. Graham Cooks<br><em>J. Phys. Chem. A</em>&nbsp;<strong>2005</strong>&nbsp;109(49) p. 11338
+<a href="http://pubs.acs.org/doi/abs/10.1021/jp058296o" target="_blank">References</a><br>Jason R. Green, R. Graham Cooks<br><em>J. Phys. Chem. A</em>&nbsp;<strong>2005</strong>&nbsp;109 (49) p. 11338
 </p>
 
 <p>
