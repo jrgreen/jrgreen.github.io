@@ -28,7 +28,7 @@ arXiv
 Under revision
 </p>-->
 
-<p><em>Harvesting steers dynamical populations</em><br>
+<p><a href="https://doi.org/10.48550/arXiv.2607.12093">Harvesting steers dynamical populations</a><br>
 R. K. Singh, Michael Assaf, Jason R. Green, Erez Aghion<br>
 Submitted<br>
 </p>
