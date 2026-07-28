@@ -28,6 +28,11 @@ arXiv
 Under revision
 </p>-->
 
+<p><a href="https://arxiv.org/abs/2607.24163">Dynamic hysteresis in an autocatalytic reaction network</a><br>
+Sheela Yadav, Jason R. Green, Moupriya Das<br>
+Submitted<br>
+</p>
+
 <p><a href="https://doi.org/10.48550/arXiv.2607.12093">Harvesting steers dynamical populations</a><br>
 R. K. Singh, Michael Assaf, Jason R. Green, Erez Aghion<br>
 Submitted<br>
