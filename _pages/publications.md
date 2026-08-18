@@ -28,6 +28,11 @@ arXiv
 Under revision
 </p>-->
 
+<p>Entropy-production bounds for linear Langevin dynamics with anisotropic diffusion<br>
+Shiqi Chen, Jason R. Green<br>
+Submitted<br>
+</p>
+
 <p><a href="https://arxiv.org/abs/2607.24163">Dynamic hysteresis in an autocatalytic reaction network</a><br>
 Sheela Yadav, Jason R. Green, Moupriya Das<br>
 Submitted<br>
@@ -40,7 +45,7 @@ Submitted<br>
 
 <p><em>Reciprocity-breaking via nanoscale surface asymmetries stabilizes metastable phases in metal particles</em><br>
 Andrew Martin, Jason R. Green, Martin M. Thuo<br>
-Under revision<br>
+Submitted<br>
 </p>
 
 <p><em>Thermodynamic speed limits from the regression of information</em><br>
