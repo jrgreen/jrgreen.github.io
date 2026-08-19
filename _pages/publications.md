@@ -28,19 +28,21 @@ arXiv
 Under revision
 </p>-->
 
-<p>Entropy-production bounds for linear Langevin dynamics with anisotropic diffusion<br>
+<p><em>Entropy-production bounds for linear Langevin dynamics with anisotropic diffusion</em><br>
 Shiqi Chen, Jason R. Green<br>
 Submitted<br>
 </p>
 
-<p><a href="https://arxiv.org/abs/2607.24163">Dynamic hysteresis in an autocatalytic reaction network</a><br>
+<p><em><a href="https://arxiv.org/abs/2607.24163">Dynamic hysteresis in an autocatalytic reaction network</a></em><br>
 Sheela Yadav, Jason R. Green, Moupriya Das<br>
 Submitted<br>
+<a href="https://arxiv.org/abs/2607.24163" target="_blank">arXiv</a>
 </p>
 
-<p><a href="https://doi.org/10.48550/arXiv.2607.12093">Harvesting steers dynamical populations</a><br>
+<p><em><a href="https://doi.org/10.48550/arXiv.2607.12093">Harvesting steers dynamical populations</a></em><br>
 R. K. Singh, Michael Assaf, Jason R. Green, Erez Aghion<br>
 Submitted<br>
+<a href="https://doi.org/10.48550/arXiv.2607.12093" target="_blank">arXiv</a>
 </p>
 
 <p><em>Reciprocity-breaking via nanoscale surface asymmetries stabilizes metastable phases in metal particles</em><br>
