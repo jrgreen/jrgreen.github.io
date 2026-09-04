@@ -1,21 +1,25 @@
 ---
 layout: post
 title: Open positions in the group
-date: 2026-04-15 16:11:00-0400
+date: 2026-08-15 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-We currently have openings for Ph.D. students.
+We currently have openings for Ph.D. students. Our group is located on the oceanfront campus of the University, Massachusetts, Boston, minutes from downtown. 
 
 ### Graduate Student Openings
 
-<small>There are open positions for Ph.D. students in Chemistry, Physics, and Computational Science. Our research group is located on the oceanfront campus of the University, Massachusetts, Boston, minutes from downtown. To apply, please submit all graduate-program application materials through the appropriate departmental website. Interested students are also encouraged contact Professor Green by email to learn more about ongoing research in the group.</small>
+<small>There are open positions for Ph.D. students in Chemistry, Physics, and Computational Science. 
+Interested students are encouraged contact Professor Green by email to learn more about ongoing research in the group.
+To apply, please submit all graduate-program application materials through the appropriate departmental website. 
+</small>
 
 <small>Possible topics:</small><br>
 - <small>Molecular neuromorphic devices for energy efficient computing</small><br>
-- <small>Data-driven learning of dynamics from microscopy videos</small><br>
+- <small>Data-driven learning of dynamics from microscopy</small><br>
 - <small>Transient growth of fluctuations in active materials</small><br>
+- <small>Nonequilibrium statistical mechanics of information processing</small><br>
 
 ---
 
