@@ -19,17 +19,15 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-While we can synthesize a vast number of molecular structures at small scales, it is difficult to quantitatively control the nonequilibrium processes required to build functional supramolecular systems at
-nanometer and micron scales. 
-However, living systems show that flows of matter and energy can organize multiscale materials, drive motion, regulate reaction networks, and replicate structure.
-Our research aims to understand and design synthetic systems that convert chemical energy into controlled, energy-efficient dynamical behaviors. 
-The problems in this direction have an overarching question: how do nonequilibrium flows of matter and energy set the limits and design rules for dynamical function?
+While we can synthesize a vast range of molecular structures, we have far less control over the nonequilibrium processes that organize them into functional systems at nanometer and micron scales. 
+However, living systems seem to have overcome this challenge, using flows of matter and energy to create multiscale materials, drive motion, regulate reaction networks, replicate structure, and process information.
+Our research develops theory for designing materials and devices that use chemical energy to perform these dynamical functions in the laboratory. 
+<!--The problems in this direction have an overarching question: how do nonequilibrium flows of matter and energy set the limits and design rules for dynamical function?-->
 
-To address this question, we develop theory and computational techniques for synthetic and biological materials---such as self-assembling structures and active materials---that use reaction and transport processes to
-assemble, sustain, and reorganize structure or generate work on targeted timescales. 
-We build coarse-grained models grounded in statistical mechanics, nonlinear dynamics, stochastic thermodynamics, and data-driven inference that quantify tradeoffs between speed, accuracy, stability, and energy use and infer mechanisms from experimental data. 
+We develop theory and computational techniques for synthetic and biological materials---such as self-assembling structures in active materials and molecular switches for neuromorphic computing ---that use reaction and transport processes to assemble, sustain, and reorganize structure or generate work. 
+We build coarse-grained models and theory grounded in statistical mechanics, nonlinear dynamics, and stochastic thermodynamics. Using these models and data-driven inference, we quantify tradeoffs between speed, accuracy, stability, and energy use and infer mechanisms from experimental data. 
 Our goal is to deliver predictive frameworks that guide experiments and enable the rational design of energy-
-efficient synthetic and biological materials.
+efficient synthetic materials.
 
 <!--<small>
 As an entry point to our work, you might start with our [publications](publications).
