@@ -19,8 +19,8 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-While we can synthesize a vast range of molecular structures, we have far less control over the nonequilibrium processes that organize them into functional systems at nanometer and micron scales. 
-However, living systems seem to have overcome this challenge, using flows of matter and energy to create multiscale materials, drive motion, regulate reaction networks, replicate structure, and process information.
+While we can synthesize a vast range of molecular structures, we have far less control over the processes that organize them into nanometer and micron scale systems that function. 
+Remarkably, living systems seem to have overcome this challenge. They use flows of matter and energy to create multiscale materials, drive motion, regulate reaction networks, replicate structure, and process information.
 Our research develops theory for designing materials and devices that use chemical energy to perform these dynamical functions in the laboratory. 
 <!--The problems in this direction have an overarching question: how do nonequilibrium flows of matter and energy set the limits and design rules for dynamical function?-->
 
