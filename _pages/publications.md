@@ -28,6 +28,12 @@ arXiv
 Under revision
 </p>-->
 
+<p><em>Deterministic transient growth amplifies excess fluctuations in chemical Fokker-Planck dynamics</em><br>
+Shiqi Chen<sup>*</sup>, Tae Hyun Ueon<sup>*</sup>, Jason R. Green<br>
+Submitted<br>
+<sup>*</sup> These authors contributed equally.
+</p>
+
 <p><em>Entropy-production bounds for linear Langevin dynamics with anisotropic diffusion</em><br>
 Shiqi Chen, Jason R. Green<br>
 Submitted<br>
